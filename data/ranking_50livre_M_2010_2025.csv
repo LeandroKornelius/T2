@@ -1,0 +1,810 @@
+ano,posicao,atleta_id,nome,ano_nascimento,idade,tempo_s,data_prova,competicao,rodada,split
+2010,1,bousquet frederick_1981,BOUSQUET Frederick,1981,29,21.36,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,2,adrian nathan_1988,ADRIAN Nathan,1988,22,21.55,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,,False
+2010,3,cielo filho cesar_1987,CIELO FILHO Cesar,1987,23,21.57,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,,False
+2010,4,nystrand stefan_1981,NYSTRAND Stefan,1981,29,21.69,2010-08-15,2010 European Aquatics Championships (50m) Budapest HUN,,False
+2010,5,gilot fabien_1984,GILOT Fabien,1984,26,21.75,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,6,hayden brent_1983,HAYDEN Brent,1983,27,21.89,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,,False
+2010,7,fratus bruno_1989,FRATUS Bruno,1989,21,21.93,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,,False
+2010,8,grechin andrey_1987,GRECHIN Andrey,1987,23,21.98,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,9,deibler steffen_1987,DEIBLER Steffen,1987,23,21.99,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,9,bernard alain_1983,BERNARD Alain,1983,27,21.99,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,H,False
+2010,11,leveaux amaury_1985,LEVEAUX Amaury,1985,25,22.0,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,H,False
+2010,12,schoeman roland_1980,SCHOEMAN Roland,1980,30,22.04,2010-03-01,Top Times (personal best) USA,,False
+2010,13,louw gideon_1987,LOUW Gideon,1987,23,22.07,2010-10-08,19th Commonwealth Games 2010 Delhi IND,SF,False
+2010,14,callus ashley_1979,CALLUS Ashley,1979,31,22.09,2010-03-16,Telstra Australian National Championships (50m) Sydney AUS,,False
+2010,15,jones cullen_1984,JONES Cullen,1984,26,22.1,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,,False
+2010,16,takacs krisztian_1985,TAKACS Krisztian,1985,25,22.12,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,17,dotto luca_1990,DOTTO Luca,1990,20,22.14,2010-08-15,2010 European Aquatics Championships (50m) Budapest HUN,,False
+2010,18,burnett simon_1983,BURNETT Simon,1983,27,22.16,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,19,orsi marco_1990,ORSI Marco,1990,20,22.18,2010-04-14,Spring National Open Championships Riccione ITA,,False
+2010,20,spadaro lucio_1991,SPADARO Lucio,1991,19,22.23,2010-07-21,Youth National Championships Rome ITA,,False
+2010,21,webergale garrett_1985,WEBER-GALE Garrett,1985,25,22.24,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,,False
+2010,22,lezak jason_1975,LEZAK Jason,1975,35,22.27,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,H,False
+2010,22,govorov andrii_1992,GOVOROV Andrii,1992,18,22.27,2010-08-17,Youth Olympic Games Singapore 2010 Singapore SGP,SF,False
+2010,24,prosser cameron_1985,PROSSER Cameron,1985,25,22.28,2010-10-08,19th Commonwealth Games 2010 Delhi IND,SF,False
+2010,25,kozma dominik_1991,KOZMA Dominik,1991,19,22.33,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,26,fesikov sergei_1989,FESIKOV Sergei,1989,21,22.34,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,27,sullivan eamon_1985,SULLIVAN Eamon,1985,25,22.36,2010-10-08,19th Commonwealth Games 2010 Delhi IND,SF,False
+2010,28,lu zhiwu_1989,LU Zhiwu,1989,21,22.37,2010-11-15,16th Asian Games 2010 Guangzhou CHN,,False
+2010,29,abood matthew_1986,ABOOD Matthew,1986,24,22.39,2010-03-16,Telstra Australian National Championships (50m) Sydney AUS,,False
+2010,30,kishida masayuki_1985,KISHIDA Masayuki,1985,25,22.41,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,H,False
+2010,30,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,21,22.41,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,32,richardson kyle_1987,RICHARDSON Kyle,1987,23,22.44,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,H,False
+2010,32,agostinho alexandre_1986,AGOSTINHO Alexandre,1986,24,22.44,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,34,draganja duje_1983,DRAGANJA Duje,1983,27,22.46,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,SF,False
+2010,35,leonardi luca_1991,LEONARDI Luca,1991,19,22.49,2010-04-14,Spring National Open Championships Riccione ITA,,False
+2010,36,brown adam_1989,BROWN Adam,1989,21,22.51,2010-10-09,19th Commonwealth Games 2010 Delhi IND,,False
+2010,37,harada rammaru_1987,HARADA Rammaru,1987,23,22.53,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,,False
+2010,38,dunford david_1988,DUNFORD David,1988,22,22.55,2010-10-08,19th Commonwealth Games 2010 Delhi IND,SF,False
+2010,38,santos nicholas_1980,SANTOS Nicholas,1980,30,22.55,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,,False
+2010,38,ferns lyndon_1983,FERNS Lyndon,1983,27,22.55,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,H,False
+2010,41,moore graeme_1989,MOORE Graeme,1989,21,22.56,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,,False
+2010,41,bovell george_1983,BOVELL George,1983,27,22.56,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,H,False
+2010,41,czerniak konrad_1989,CZERNIAK Konrad,1989,21,22.56,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,H,False
+2010,44,noriega javier_1980,NORIEGA Javier,1980,30,22.62,2010-04-22,Campeonato Espana Open De Primavera Malaga ESP,,False
+2010,45,mcgill tyler_1987,MCGILL Tyler,1987,23,22.66,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,H,False
+2010,45,targett matthew_1985,TARGETT Matthew,1985,25,22.66,2010-03-16,Telstra Australian National Championships (50m) Sydney AUS,,False
+2010,47,to kenneth_1992,TO Kenneth,1992,18,22.7,2010-08-17,Youth Olympic Games Singapore 2010 Singapore SGP,SF,False
+2010,47,rolla andrea_1989,ROLLA Andrea,1989,21,22.7,2010-06-20,Campionato A Squadre - Serie A Pescara ITA,,False
+2010,49,ito makoto_1986,ITO Makoto,1986,24,22.73,2010-08-21,11th Pan Pacific Championships 2010 Irvine USA,H,False
+2010,50,aerents jasper_1992,AERENTS Jasper,1992,18,22.74,2010-08-14,2010 European Aquatics Championships (50m) Budapest HUN,H,False
+2010,50,santos paulo_1989,SANTOS Paulo,1989,21,22.74,2010-07-29,Youth and Juvenile National Swimming ChampionshipCsoimbra POR,,False
+2011,1,cielo filho cesar_1987,CIELO FILHO Cesar,1987,24,21.52,2011-07-30,14th FINA World Championships 2011 Shanghai CHN,,False
+2011,2,fratus bruno_1989,FRATUS Bruno,1989,22,21.76,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,SF,False
+2011,3,bousquet frederick_1981,BOUSQUET Frederick,1981,30,21.78,2011-06-25,5th EDF Swimming Open Paris FRA,H,False
+2011,4,adrian nathan_1988,ADRIAN Nathan,1988,23,21.84,2011-08-02,US National Championships (50m) Palo Alto USA,H,False
+2011,5,dotto luca_1990,DOTTO Luca,1990,21,21.9,2011-07-30,14th FINA World Championships 2011 Shanghai CHN,,False
+2011,6,bernard alain_1983,BERNARD Alain,1983,28,21.92,2011-07-30,14th FINA World Championships 2011 Shanghai CHN,,False
+2011,7,takacs krisztian_1985,TAKACS Krisztian,1985,26,21.97,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,SF,False
+2011,8,fesikov sergei_1989,FESIKOV Sergei,1989,22,21.98,2011-12-02,2011 Dutch Championships Open (50m) Eindhoven NED,,False
+2011,9,nystrand stefan_1981,NYSTRAND Stefan,1981,30,22.01,2011-04-07,Dutch Open Swim Cup Eindhoven NED,H,False
+2011,10,louw gideon_1987,LOUW Gideon,1987,24,22.02,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,SF,False
+2011,10,bovell george_1983,BOVELL George,1983,28,22.02,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,SF,False
+2011,10,abood matthew_1986,ABOOD Matthew,1986,25,22.02,2011-04-01,2011 Telstra Australian Swimming Championships Sydney AUS,,False
+2011,13,feigen jimmy_1989,FEIGEN Jimmy,1989,22,22.03,2011-08-02,US National Championships (50m) Palo Alto USA,H,False
+2011,14,webergale garrett_1985,WEBER-GALE Garrett,1985,26,22.04,2011-08-02,US National Championships (50m) Palo Alto USA,H,False
+2011,14,govorov andrii_1992,GOVOROV Andrii,1992,19,22.04,2011-06-25,5th EDF Swimming Open Paris FRA,H,False
+2011,16,brunelli nicholas_1981,BRUNELLI Nicholas,1981,30,22.08,2011-08-02,US National Championships TT - (50m) Palo Alto USA,,False
+2011,16,brown adam_1989,BROWN Adam,1989,22,22.08,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,H,False
+2011,18,targett matthew_1985,TARGETT Matthew,1985,26,22.09,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,SF,False
+2011,18,gilot fabien_1984,GILOT Fabien,1984,27,22.09,2011-03-23,French National Championships (50m) Strasburg FRA,,False
+2011,20,shioura shinri_1991,SHIOURA Shinri,1991,20,22.11,2011-09-02,Japan Inter-College Swimming Competition Yokohama JPN,,False
+2011,20,czerniak konrad_1989,CZERNIAK Konrad,1989,22,22.11,2011-05-19,Polish National Championships (50m) Ostrowiec POL,,False
+2011,22,orsi marco_1990,ORSI Marco,1990,21,22.13,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,SF,False
+2011,22,grechin andrey_1987,GRECHIN Andrey,1987,24,22.13,2011-04-18,2011 Russian National Champs Moscow RUS,,False
+2011,24,di carli marco_1985,DI CARLI Marco,1985,26,22.14,2011-06-01,German National Championships (50m) Berlin GER,,False
+2011,25,garcia hernandez hanser_1988,GARCIA HERNANDEZ Hanser,1988,23,22.15,2011-10-20,16th Pan American Games 2011 Guadalajara MEX,,False
+2011,26,schoeman roland_1980,SCHOEMAN Roland,1980,31,22.19,2011-12-01,US Winter National Championships (50m) Atlanta USA,,False
+2011,27,spadaro lucio_1991,SPADARO Lucio,1991,20,22.2,2011-12-16,Italian Open Winter Nationals 2011 Riccione ITA,,False
+2011,28,deibler steffen_1987,DEIBLER Steffen,1987,24,22.21,2011-06-01,German National Championships (50m) Berlin GER,,False
+2011,29,burnett simon_1983,BURNETT Simon,1983,28,22.24,2011-06-14,British Gas National Championships (50m) Sheffield GBR,,False
+2011,29,jones cullen_1984,JONES Cullen,1984,27,22.24,2011-05-12,NC Charlotte UltraSwim 2011 Charlotte USA,,False
+2011,31,copeland william_1986,COPELAND William,1986,25,22.26,2011-08-02,US National Championships (50m) Palo Alto USA,H,False
+2011,32,santos nicholas_1980,SANTOS Nicholas,1980,31,22.28,2011-08-29,Jose Finkel Trophy 2011 Belo Horizonte BRA,,False
+2011,32,lezak jason_1975,LEZAK Jason,1975,36,22.28,2011-08-02,US National Championships (50m) Palo Alto USA,H,False
+2011,32,schneider josh_1988,SCHNEIDER Josh,1988,23,22.28,2011-05-12,NC Charlotte UltraSwim 2011 Charlotte USA,,False
+2011,32,ito kenta_1990,ITO Kenta,1990,21,22.28,2011-04-09,Japan Selection Trial for 14th FINA World ChampionshSihpisz u2o0k1a1 JPN,,False
+2011,36,manaudou florent_1990,MANAUDOU Florent,1990,21,22.3,2011-06-25,5th EDF Swimming Open Paris FRA,H,False
+2011,36,prosser cameron_1985,PROSSER Cameron,1985,26,22.3,2011-04-01,2011 Telstra Australian Swimming Championships Sydney AUS,,False
+2011,38,grevers matt_1985,GREVERS Matt,1985,26,22.32,2011-08-02,US National Championships (50m) Palo Alto USA,H,False
+2011,39,hayden brent_1983,HAYDEN Brent,1983,28,22.34,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,H,False
+2011,39,dunford david_1988,DUNFORD David,1988,23,22.34,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,H,False
+2011,41,small adam michael_1989,SMALL Adam Michael,1989,22,22.35,2011-08-02,US National Championships (50m) Palo Alto USA,H,False
+2011,41,callus ashley_1979,CALLUS Ashley,1979,32,22.35,2011-04-01,2011 Telstra Australian Swimming Championships Sydney AUS,,False
+2011,43,kozma dominik_1991,KOZMA Dominik,1991,20,22.36,2011-07-29,14th FINA World Championships 2011 Shanghai CHN,H,False
+2011,43,konovalov nikita_1988,KONOVALOV Nikita,1988,23,22.36,2011-04-18,2011 Russian National Champs Moscow RUS,,False
+2011,45,tikhobaev oleg_1990,TIKHOBAEV Oleg,1990,21,22.37,2011-04-18,2011 Russian National Champs Moscow RUS,,False
+2011,45,morozov vladimir_1992,MOROZOV Vladimir,1992,19,22.37,2011-04-18,2011 Russian National Champs Moscow RUS,,False
+2011,47,sullivan eamon_1985,SULLIVAN Eamon,1985,26,22.39,2011-04-01,2011 Telstra Australian Swimming Championships Sydney AUS,,False
+2011,48,richardson kyle_1987,RICHARDSON Kyle,1987,24,22.4,2011-04-01,2011 Telstra Australian Swimming Championships Sydney AUS,,False
+2011,49,fraser brett_1989,FRASER Brett,1989,22,22.41,2011-11-11,Minneapolis Grand Prix Minneapolis USA,,False
+2011,50,lagunov evgeny_1985,LAGUNOV Evgeny,1985,26,22.43,2011-04-18,2011 Russian National Champs Moscow RUS,,False
+2011,50,roberts james_1991,ROBERTS James,1991,20,22.43,2011-04-01,2011 Telstra Australian Swimming Championships Sydney AUS,,False
+2012,1,manaudou florent_1990,MANAUDOU Florent,1990,22,21.34,2012-08-03,Olympic Games London 2012 London GBR,,False
+2012,2,cielo filho cesar_1987,CIELO FILHO Cesar,1987,25,21.38,2012-04-24,Maria Lenk Trophy Rio de Janeiro BRA,,False
+2012,3,jones cullen_1984,JONES Cullen,1984,28,21.54,2012-08-03,Olympic Games London 2012 London GBR,,False
+2012,4,ervin anthony_1981,ERVIN Anthony,1981,31,21.6,2012-06-25,US Olympic Team Trials Omaha USA,H,False
+2012,5,fratus bruno_1989,FRATUS Bruno,1989,23,21.61,2012-08-03,Olympic Games London 2012 London GBR,,False
+2012,6,adrian nathan_1988,ADRIAN Nathan,1988,24,21.68,2012-06-25,US Olympic Team Trials Omaha USA,H,False
+2012,7,magnussen james_1991,MAGNUSSEN James,1991,21,21.74,2012-03-15,2012 EnergyAustralia Swimming Adelaide AUS,,False
+2012,8,bovell george_1983,BOVELL George,1983,29,21.77,2012-08-02,Olympic Games London 2012 London GBR,H,False
+2012,9,schneider josh_1988,SCHNEIDER Josh,1988,24,21.78,2012-06-25,US Olympic Team Trials Omaha USA,H,False
+2012,10,bousquet frederick_1981,BOUSQUET Frederick,1981,31,21.79,2012-04-24,Maria Lenk Trophy Rio de Janeiro BRA,,False
+2012,11,schoeman roland_1980,SCHOEMAN Roland,1980,32,21.8,2012-08-03,Olympic Games London 2012 London GBR,,False
+2012,12,grechin andrey_1987,GRECHIN Andrey,1987,25,21.82,2012-04-17,Russian National Championships (50m) Moscow RUS,,False
+2012,13,sullivan eamon_1985,SULLIVAN Eamon,1985,27,21.88,2012-03-15,2012 EnergyAustralia Swimming Adelaide AUS,,False
+2012,14,feigen jimmy_1989,FEIGEN Jimmy,1989,23,21.89,2012-06-25,US Olympic Team Trials Omaha USA,H,False
+2012,15,louw gideon_1987,LOUW Gideon,1987,25,21.92,2012-08-02,Olympic Games London 2012 London GBR,SF,False
+2012,15,abood matthew_1986,ABOOD Matthew,1986,26,21.92,2012-03-15,2012 EnergyAustralia Swimming Adelaide AUS,,False
+2012,17,leveaux amaury_1985,LEVEAUX Amaury,1985,27,21.93,2012-03-18,French National Championships (50m) Dunkerke FRA,SF,False
+2012,18,gilot fabien_1984,GILOT Fabien,1984,28,21.96,2012-03-18,French National Championships (50m) Dunkerke FRA,SF,False
+2012,19,dotto luca_1990,DOTTO Luca,1990,22,21.97,2012-12-19,II Winter Italian Championships Riccione ITA,,False
+2012,20,targett matthew_1985,TARGETT Matthew,1985,27,21.98,2012-01-27,South Australian State Open Championships Adelaide AUS,,False
+2012,21,orsi marco_1990,ORSI Marco,1990,22,22.0,2012-03-06,Italian National Spring Championships Riccione ITA,H,False
+2012,22,bocchia federico_1986,BOCCHIA Federico,1986,26,22.01,2012-12-19,II Winter Italian Championships Riccione ITA,,False
+2012,22,takacs krisztian_1985,TAKACS Krisztian,1985,27,22.01,2012-08-02,Olympic Games London 2012 London GBR,SF,False
+2012,24,nystrand stefan_1981,NYSTRAND Stefan,1981,31,22.04,2012-05-27,2012 European Aquatics Championships (50m) Debrecen HUN,,False
+2012,24,czerniak konrad_1989,CZERNIAK Konrad,1989,23,22.04,2012-05-12,Polish National Championships (50m) Olsztyn POL,,False
+2012,26,ito kenta_1990,ITO Kenta,1990,22,22.05,2012-09-07,88th Inter College Swimming Championships Tokyo JPN,,False
+2012,26,fesikov sergei_1989,FESIKOV Sergei,1989,23,22.05,2012-04-17,Russian National Championships (50m) Moscow RUS,,False
+2012,28,morozov vladimir_1992,MOROZOV Vladimir,1992,20,22.06,2012-04-17,Russian National Championships (50m) Moscow RUS,,False
+2012,29,santos nicholas_1980,SANTOS Nicholas,1980,32,22.07,2012-04-24,Maria Lenk Trophy Rio de Janeiro BRA,,False
+2012,30,kalargaris ioannis_1990,KALARGARIS Ioannis,1990,22,22.08,2012-01-28,Aquanaswim 2012 Banja Luka BIH,,False
+2012,31,govorov andrii_1992,GOVOROV Andrii,1992,20,22.09,2012-08-02,Olympic Games London 2012 London GBR,H,False
+2012,31,grevers matt_1985,GREVERS Matt,1985,27,22.09,2012-06-25,US Olympic Team Trials Omaha USA,H,False
+2012,33,schnur jason alexander_1990,SCHNUR Jason Alexander,1990,22,22.11,2012-06-25,US Olympic Team Trials Omaha USA,H,False
+2012,34,hayden brent_1983,HAYDEN Brent,1983,29,22.12,2012-08-02,Olympic Games London 2012 London GBR,SF,False
+2012,35,syrnikov vitaly_1991,SYRNIKOV Vitaly,1991,21,22.13,2012-04-17,Russian National Championships (50m) Moscow RUS,,False
+2012,36,rolla andrea_1989,ROLLA Andrea,1989,23,22.14,2012-03-06,Italian National Spring Championships Riccione ITA,H,False
+2012,37,bernard alain_1983,BERNARD Alain,1983,29,22.15,2012-03-18,French National Championships (50m) Dunkerke FRA,SF,False
+2012,38,shioura shinri_1991,SHIOURA Shinri,1991,21,22.16,2012-09-15,67th Japan National Sports Festival - Swimming ComGifu JPN,,False
+2012,39,coville alexander_1988,COVILLE Alexander,1988,24,22.19,2012-06-25,US Olympic Team Trials Omaha USA,H,False
+2012,40,tikhobaev oleg_1990,TIKHOBAEV Oleg,1990,22,22.21,2012-04-17,Russian National Championships (50m) Moscow RUS,,False
+2012,41,trandafir norbert_1988,TRANDAFIR Norbert,1988,24,22.22,2012-08-02,Olympic Games London 2012 London GBR,H,False
+2012,41,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,19,22.22,2012-05-27,2012 European Aquatics Championships (50m) Debrecen HUN,,False
+2012,41,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,23,22.22,2012-05-27,2012 European Aquatics Championships (50m) Debrecen HUN,,False
+2012,44,small adam michael_1989,SMALL Adam Michael,1989,23,22.25,2012-06-25,US Olympic Team Trials Omaha USA,H,False
+2012,45,mcevoy cameron_1994,MCEVOY Cameron,1994,18,22.26,2012-04-09,2012 Australian Age Champs Brisbane AUS,,False
+2012,46,oswald maximilian_1994,OSWALD Maximilian,1994,18,22.28,2012-07-08,European Junior Swimming Championships 2012 Antwerp BEL,,False
+2012,47,kishida masayuki_1985,KISHIDA Masayuki,1985,27,22.31,2012-06-08,2012 Mutual of Omaha Swimvitational CenturyLink Center USA,H,False
+2012,47,roberts james_1991,ROBERTS James,1991,21,22.31,2012-03-15,2012 EnergyAustralia Swimming Adelaide AUS,,False
+2012,49,chierighini marcelo_1991,CHIERIGHINI Marcelo,1991,21,22.34,2012-04-24,Maria Lenk Trophy Rio de Janeiro BRA,,False
+2012,49,spadaro lucio_1991,SPADARO Lucio,1991,21,22.34,2012-03-06,Italian National Spring Championships Riccione ITA,H,False
+2013,1,cielo filho cesar_1987,CIELO FILHO Cesar,1987,26,21.32,2013-08-03,15th FINA World Championships 2013 Barcelona ESP,,False
+2013,2,manaudou florent_1990,MANAUDOU Florent,1990,23,21.37,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,SF,False
+2013,3,ervin anthony_1981,ERVIN Anthony,1981,32,21.42,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,SF,False
+2013,4,morozov vladimir_1992,MOROZOV Vladimir,1992,21,21.47,2013-08-03,15th FINA World Championships 2013 Barcelona ESP,,False
+2013,4,adrian nathan_1988,ADRIAN Nathan,1988,25,21.47,2013-06-25,US National Championships (50m) Indianapolis USA,H,False
+2013,6,bovell george_1983,BOVELL George,1983,30,21.51,2013-08-03,15th FINA World Championships 2013 Barcelona ESP,,False
+2013,7,magnussen james_1991,MAGNUSSEN James,1991,22,21.52,2013-04-26,2013 EnergyAustralia Swimming Adelaide AUS,,False
+2013,8,bousquet frederick_1981,BOUSQUET Frederick,1981,32,21.62,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,SF,False
+2013,9,schoeman roland_1980,SCHOEMAN Roland,1980,33,21.67,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,SF,False
+2013,10,fratus bruno_1989,FRATUS Bruno,1989,24,21.8,2013-12-18,33rd Brazlian Senior / Open Championships Porto Alegre BRA,,False
+2013,10,govorov andrii_1992,GOVOROV Andrii,1992,21,21.8,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,H,False
+2013,12,webergale garrett_1985,WEBER-GALE Garrett,1985,28,21.83,2013-07-21,19th Maccabiah Games Netanya ISR,,False
+2013,13,chierighini marcelo_1991,CHIERIGHINI Marcelo,1991,22,21.84,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,SF,False
+2013,13,abood matthew_1986,ABOOD Matthew,1986,27,21.84,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,H,False
+2013,15,schneider josh_1988,SCHNEIDER Josh,1988,25,21.87,2013-06-25,US National Championships (50m) Indianapolis USA,H,False
+2013,16,feigen jimmy_1989,FEIGEN Jimmy,1989,24,21.88,2013-06-25,US National Championships (50m) Indianapolis USA,H,False
+2013,16,jones cullen_1984,JONES Cullen,1984,29,21.88,2013-06-25,US National Championships (50m) Indianapolis USA,H,False
+2013,18,ning zetao_1993,NING Zetao,1993,20,21.91,2013-09-09,Chinese National Championships (50m) Shenyang CHN,,False
+2013,18,orsi marco_1990,ORSI Marco,1990,23,21.91,2013-08-06,Italian Summer National Championships (50m) Rome ITA,,False
+2013,20,brown adam_1989,BROWN Adam,1989,24,21.92,2013-06-26,British Gas National Championships (50m) Sheffield GBR,,False
+2013,20,targett matthew_1985,TARGETT Matthew,1985,28,21.92,2013-04-26,2013 EnergyAustralia Swimming Adelaide AUS,,False
+2013,22,czerniak konrad_1989,CZERNIAK Konrad,1989,24,21.95,2013-06-13,Polish National Championships (50m) Olsztyn POL,,False
+2013,23,trandafir norbert_1988,TRANDAFIR Norbert,1988,25,21.98,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,SF,False
+2013,24,grechin andrey_1987,GRECHIN Andrey,1987,26,22.0,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,SF,False
+2013,25,takacs krisztian_1985,TAKACS Krisztian,1985,28,22.01,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,H,False
+2013,25,proud benjamin_1994,PROUD Benjamin,1994,19,22.01,2013-06-26,British Gas National Championships (50m) Sheffield GBR,,False
+2013,27,shioura shinri_1991,SHIOURA Shinri,1991,22,22.02,2013-08-02,15th FINA World Championships 2013 Barcelona ESP,H,False
+2013,28,dotto luca_1990,DOTTO Luca,1990,23,22.03,2013-04-09,Italian National Championships 2013 Riccione ITA,H,False
+2013,29,abood andrew_1990,ABOOD Andrew,1990,23,22.04,2013-04-26,2013 EnergyAustralia Swimming Adelaide AUS,,False
+2013,30,leveaux amaury_1985,LEVEAUX Amaury,1985,28,22.05,2013-04-09,French National Championships (50m) Rennes FRA,,False
+2013,31,sedov evgeny_1996,SEDOV Evgeny,1996,17,22.06,2013-07-14,European Junior Swimming Championships 2013 Poznan POL,SF,False
+2013,32,percy luke_1995,PERCY Luke,1995,18,22.11,2013-08-28,4th FINA World Junior Swimming Championships 201D3ubai UAE,SF,False
+2013,33,krug iv karl_1989,KRUG IV Karl,1989,24,22.15,2013-07-30,US National Championships (50m) Irvine USA,,False
+2013,33,fesikov sergei_1989,FESIKOV Sergei,1989,24,22.15,2013-04-04,Swim Cup 2013 Eindhoven NED,SF,False
+2013,35,santos nicholas_1980,SANTOS Nicholas,1980,33,22.16,2013-12-18,33rd Brazlian Senior / Open Championships Porto Alegre BRA,,False
+2013,35,deibler steffen_1987,DEIBLER Steffen,1987,26,22.16,2013-04-25,German National Championships (50m) Berlin GER,,False
+2013,37,aerents jasper_1992,AERENTS Jasper,1992,21,22.17,2013-01-19,Flanders Swimming Cup 2013 Antwerp BEL,,False
+2013,38,stubblefield seth_1993,STUBBLEFIELD Seth,1993,20,22.19,2013-07-30,US National Championships (50m) Irvine USA,,False
+2013,38,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,20,22.19,2013-05-11,Antwerp Diamond Speedo Race Antwerp BEL,H,False
+2013,38,lobintsev nikita_1988,LOBINTSEV Nikita,1988,25,22.19,2013-04-16,Russian National Swimming Cup Kazan RUS,SF,False
+2013,41,vitoria alan_1986,VITORIA Alan,1986,27,22.21,2013-04-22,Maria Lenk Trophy Rio de Janeiro BRA,,False
+2013,41,ito kenta_1990,ITO Kenta,1990,23,22.21,2013-04-11,Japan National Championships (50m) Nagaoka JPN,,False
+2013,43,dressel caeleb_1996,DRESSEL Caeleb,1996,17,22.22,2013-08-28,4th FINA World Junior Swimming Championships 201D3ubai UAE,,False
+2013,44,bocchia federico_1986,BOCCHIA Federico,1986,27,22.23,2013-12-19,National Winter Championships Riccione ITA,,False
+2013,45,kawachi yuki_1986,KAWACHI Yuki,1986,27,22.24,2013-09-13,68th JAPAN National Sports Festival - Swimming - Tatsumi JPN,,False
+2013,46,mcgill tyler_1987,MCGILL Tyler,1987,26,22.25,2013-07-30,US National Championships (50m) Irvine USA,,False
+2013,47,lagunov evgeny_1985,LAGUNOV Evgeny,1985,28,22.28,2013-04-16,Russian National Swimming Cup Kazan RUS,SF,False
+2013,48,van mierlo jasper_1990,VAN MIERLO Jasper,1990,23,22.3,2013-07-06,7th EDF Open Swimming Vichy FRA,,False
+2013,49,roberts james_1991,ROBERTS James,1991,22,22.31,2013-04-26,2013 EnergyAustralia Swimming Adelaide AUS,,False
+2013,50,condorelli santo_1995,CONDORELLI Santo,1995,18,22.32,2013-08-05,Speedo Junior National 2013 Irvine USA,H,False
+2014,1,manaudou florent_1990,MANAUDOU Florent,1990,24,21.32,2014-08-24,2014 European Aquatics Championships (50m) Berlin GER,,False
+2014,2,cielo filho cesar_1987,CIELO FILHO Cesar,1987,27,21.39,2014-04-21,Maria Lenk Trophy Sao Paulo BRA,,False
+2014,3,fratus bruno_1989,FRATUS Bruno,1989,25,21.41,2014-12-20,Brazilian National Championships (50m) Rio de Janeiro BRA,,False
+2014,4,ervin anthony_1981,ERVIN Anthony,1981,33,21.55,2014-08-06,US National Championships (50m) Irvine USA,H,False
+2014,4,morozov vladimir_1992,MOROZOV Vladimir,1992,22,21.55,2014-05-13,Russian National Championships (50m) Moscow RUS,,False
+2014,6,orsi marco_1990,ORSI Marco,1990,24,21.64,2014-12-20,Italian Winter Championhips Riccione ITA,,False
+2014,7,sullivan eamon_1985,SULLIVAN Eamon,1985,29,21.65,2014-04-01,Australian National Championships (50m) Brisbane AUS,,False
+2014,8,adrian nathan_1988,ADRIAN Nathan,1988,26,21.66,2014-06-07,Mare Nostrum - 32th Meeting International de NatatiMono ndaec Moonte Carlo 20M14ON,,False
+2014,9,proud benjamin_1994,PROUD Benjamin,1994,20,21.76,2014-07-28,20th Commonwealth Games 2014 Glasgow GBR,SF,False
+2014,10,magnussen james_1991,MAGNUSSEN James,1991,23,21.77,2014-04-01,Australian National Championships (50m) Brisbane AUS,,False
+2014,11,jones cullen_1984,JONES Cullen,1984,30,21.83,2014-08-06,US National Championships (50m) Irvine USA,H,False
+2014,12,abood matthew_1986,ABOOD Matthew,1986,28,21.87,2014-04-01,Australian National Championships (50m) Brisbane AUS,,False
+2014,13,czerniak konrad_1989,CZERNIAK Konrad,1989,25,21.88,2014-08-24,2014 European Aquatics Championships (50m) Berlin GER,,False
+2014,13,schneider josh_1988,SCHNEIDER Josh,1988,26,21.88,2014-08-06,US National Championships (50m) Irvine USA,H,False
+2014,13,shioura shinri_1991,SHIOURA Shinri,1991,23,21.88,2014-04-10,Japan Swim 2014 Tokyo JPN,H,False
+2014,16,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,25,21.93,2014-08-24,2014 European Aquatics Championships (50m) Berlin GER,,False
+2014,17,ning zetao_1993,NING Zetao,1993,21,21.94,2014-09-23,17th Asian Games 2014 Incheon KOR,H,False
+2014,17,mcevoy cameron_1994,MCEVOY Cameron,1994,20,21.94,2014-07-28,20th Commonwealth Games 2014 Glasgow GBR,SF,False
+2014,17,grechin andrey_1987,GRECHIN Andrey,1987,27,21.94,2014-05-13,Russian National Championships (50m) Moscow RUS,,False
+2014,20,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,21,21.96,2014-08-23,2014 European Aquatics Championships (50m) Berlin GER,SF,False
+2014,21,sedov evgeny_1996,SEDOV Evgeny,1996,18,21.98,2014-03-28,Russian National Swimming Cup NO 2 Rostov-on-Don RUS,,False
+2014,22,yu hexin_1996,YU Hexin,1996,18,22.0,2014-08-20,Youth Olympic Games Nanjing 2014 Nanjing CHN,,False
+2014,23,govorov andrii_1992,GOVOROV Andrii,1992,22,22.02,2014-08-23,2014 European Aquatics Championships (50m) Berlin GER,SF,False
+2014,24,fesikov sergei_1989,FESIKOV Sergei,1989,25,22.03,2014-05-13,Russian National Championships (50m) Moscow RUS,,False
+2014,25,schoeman roland_1980,SCHOEMAN Roland,1980,34,22.04,2014-04-07,South African National Championships (50m) Durban RSA,,False
+2014,26,dotto luca_1990,DOTTO Luca,1990,24,22.1,2014-04-08,Italian National Spring Championships (50m) Riccione ITA,,False
+2014,27,tikhobaev oleg_1990,TIKHOBAEV Oleg,1990,24,22.13,2014-05-13,Russian National Championships (50m) Moscow RUS,,False
+2014,28,santos nicholas_1980,SANTOS Nicholas,1980,34,22.15,2014-12-20,Brazilian National Championships (50m) Rio de Janeiro BRA,,False
+2014,28,stubblefield seth_1993,STUBBLEFIELD Seth,1993,21,22.15,2014-08-06,US National Championships (50m) Irvine USA,H,False
+2014,30,ito kenta_1990,ITO Kenta,1990,24,22.16,2014-09-23,17th Asian Games 2014 Incheon KOR,,False
+2014,30,weber mark alan_1990,WEBER Mark Alan,1990,24,22.16,2014-08-06,US National Championships (50m) Irvine USA,H,False
+2014,30,santana matheus_1996,SANTANA Matheus,1996,18,22.16,2014-05-07,Brasilian Junior and Senior Championships Rio de Janeiro BRA,,False
+2014,33,lessa walter_1985,LESSA Walter,1985,29,22.17,2014-12-20,Brazilian National Championships (50m) Rio de Janeiro BRA,,False
+2014,34,heersbrandt francois_1989,HEERSBRANDT Francois,1989,25,22.18,2014-08-23,2014 European Aquatics Championships (50m) Berlin GER,SF,False
+2014,35,powers paul quinn_1995,POWERS Paul Quinn,1995,19,22.2,2014-08-27,Junior Pan Pacific Swimming Championships 2014 Maui USA,,False
+2014,36,chierighini marcelo_1991,CHIERIGHINI Marcelo,1991,23,22.21,2014-08-24,12th Pan Pacific Championships 2014 Gold Coast AUS,H,False
+2014,37,grevers matt_1985,GREVERS Matt,1985,29,22.22,2014-08-06,US National Championships (50m) Irvine USA,H,False
+2014,37,bovell george_1983,BOVELL George,1983,31,22.22,2014-07-28,20th Commonwealth Games 2014 Glasgow GBR,SF,False
+2014,37,tandy bradley_1991,TANDY Bradley,1991,23,22.22,2014-04-07,South African National Championships (50m) Durban RSA,,False
+2014,40,takacs krisztian_1985,TAKACS Krisztian,1985,29,22.23,2014-07-16,Hungarian Swimming Championships Open Debrecen HUN,,False
+2014,41,amaral duarte garofalo italo_1992,AMARAL DUARTE GAROFALO Italo,1992,22,22.25,2014-12-20,Brazilian National Championships (50m) Rio de Janeiro BRA,,False
+2014,42,abood andrew_1990,ABOOD Andrew,1990,24,22.26,2014-04-01,Australian National Championships (50m) Brisbane AUS,,False
+2014,43,brown adam_1989,BROWN Adam,1989,25,22.27,2014-04-10,British Gas National Championships (50m) Glasgow GBR,,False
+2014,44,feigen jimmy_1989,FEIGEN Jimmy,1989,25,22.29,2014-08-06,US National Championships (50m) Irvine USA,H,False
+2014,45,kozma dominik_1991,KOZMA Dominik,1991,23,22.33,2014-08-23,2014 European Aquatics Championships (50m) Berlin GER,H,False
+2014,46,de souza martins felipe_1988,DE SOUZA MARTINS Felipe,1988,26,22.34,2014-12-20,Brazilian National Championships (50m) Rio de Janeiro BRA,,False
+2014,47,dressel caeleb_1996,DRESSEL Caeleb,1996,18,22.35,2014-08-06,US National Championships (50m) Irvine USA,H,False
+2014,48,nakamura katsumi_1994,NAKAMURA Katsumi,1994,20,22.36,2014-09-05,90th Inter College Swimming Championships Kanagawa JPN,,False
+2014,48,toomey derek matthew_1991,TOOMEY Derek Matthew,1991,23,22.36,2014-08-06,US National Championships (50m) Irvine USA,H,False
+2014,48,hornikel bjorn_1992,HORNIKEL Bjorn,1992,22,22.36,2014-05-01,German National Championships (50m) Berlin GER,,False
+2014,48,ortizcanavate ozeki miguel_1991,ORTIZ-CANAVATE OZEKI Miguel,1991,23,22.36,2014-04-10,Spanish Open Spring Swimming Championships Palma de Mallorca ESP,,False
+2015,1,manaudou florent_1990,MANAUDOU Florent,1990,25,21.19,2015-08-08,16th FINA World Championships 2015 Kazan RUS,,False
+2015,2,fratus bruno_1989,FRATUS Bruno,1989,26,21.37,2015-12-18,Brazil Open 2015 - BRA,,False
+2015,2,adrian nathan_1988,ADRIAN Nathan,1988,27,21.37,2015-08-07,16th FINA World Championships 2015 Kazan RUS,SF,False
+2015,4,dressel caeleb_1996,DRESSEL Caeleb,1996,19,21.53,2015-08-08,US National Championships (50m) San Antonio USA,,False
+2015,5,morozov vladimir_1992,MOROZOV Vladimir,1992,23,21.56,2015-08-08,16th FINA World Championships 2015 Kazan RUS,,False
+2015,6,schneider josh_1988,SCHNEIDER Josh,1988,27,21.8,2015-08-12,FINA/airweave Swimming World Cup 2015 Moscow RUS,,False
+2015,7,sedov evgeny_1996,SEDOV Evgeny,1996,19,21.84,2015-08-12,FINA/airweave Swimming World Cup 2015 Moscow RUS,,False
+2015,7,cielo filho cesar_1987,CIELO FILHO Cesar,1987,28,21.84,2015-04-08,Maria Lenk Trophy Rio de Janeiro BRA,,False
+2015,9,govorov andrii_1992,GOVOROV Andrii,1992,23,21.86,2015-08-08,16th FINA World Championships 2015 Kazan RUS,,False
+2015,9,orsi marco_1990,ORSI Marco,1990,25,21.86,2015-08-08,16th FINA World Championships 2015 Kazan RUS,,False
+2015,11,tandy bradley_1991,TANDY Bradley,1991,24,21.87,2015-12-03,US National Winter Championships (50m) Federal Way USA,H,False
+2015,11,jones cullen_1984,JONES Cullen,1984,31,21.87,2015-08-08,US National Championships (50m) San Antonio USA,,False
+2015,11,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,22,21.87,2015-08-07,16th FINA World Championships 2015 Kazan RUS,H,False
+2015,14,proud benjamin_1994,PROUD Benjamin,1994,21,21.88,2015-08-07,16th FINA World Championships 2015 Kazan RUS,SF,False
+2015,15,takacs krisztian_1985,TAKACS Krisztian,1985,30,21.89,2015-07-03,CXVII. National Championship in Memory of Tamas SzGyor HUN,SF,False
+2015,16,nakamura katsumi_1994,NAKAMURA Katsumi,1994,21,21.9,2015-06-13,Mare Nostrum - 33th Meeting International de NatatiMono ndaec Moonte Carlo 20M15ON,,False
+2015,17,ervin anthony_1981,ERVIN Anthony,1981,34,21.98,2015-08-07,16th FINA World Championships 2015 Kazan RUS,SF,False
+2015,17,magnussen james_1991,MAGNUSSEN James,1991,24,21.98,2015-04-08,Australian National Championships (50m) Sydney AUS,,False
+2015,19,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,26,21.99,2015-03-23,Grand Prix 3 Espoo FIN,H,False
+2015,20,grechin andrey_1987,GRECHIN Andrey,1987,28,22.01,2015-04-23,Russian National Championships (50m) Moscow RUS,H,False
+2015,21,chadwick michael_1995,CHADWICK Michael,1995,20,22.03,2015-08-08,US National Championships (50m) San Antonio USA,,False
+2015,21,mcevoy cameron_1994,MCEVOY Cameron,1994,21,22.03,2015-04-08,Australian National Championships (50m) Sydney AUS,,False
+2015,23,condorelli santo_1995,CONDORELLI Santo,1995,20,22.04,2015-12-03,US National Winter Championships (50m) Federal Way USA,H,False
+2015,23,shioura shinri_1991,SHIOURA Shinri,1991,24,22.04,2015-05-24,Japan Open (50m) 2015 Tokyo JPN,,False
+2015,25,amaral duarte garofalo italo_1992,AMARAL DUARTE GAROFALO Italo,1992,23,22.08,2015-12-19,Open Tournament 2015 Palhoca BRA,,False
+2015,25,mignon clement_1993,MIGNON Clement,1993,22,22.08,2015-04-05,French Elite and Junior Championships Limoges FRA,H,False
+2015,27,dotto luca_1990,DOTTO Luca,1990,25,22.12,2015-04-17,National Spring Championships Riccione ITA,H,False
+2015,28,gilot fabien_1984,GILOT Fabien,1984,31,22.13,2015-04-05,French Elite and Junior Championships Limoges FRA,H,False
+2015,28,czerniak konrad_1989,CZERNIAK Konrad,1989,26,22.13,2015-03-28,Spring Spanish Championships Malaga ESP,H,False
+2015,30,meladinis odyssefs_1990,MELADINIS Odyssefs,1990,25,22.14,2015-08-07,16th FINA World Championships 2015 Kazan RUS,SF,False
+2015,31,lobintsev nikita_1988,LOBINTSEV Nikita,1988,27,22.16,2015-08-12,FINA/airweave Swimming World Cup 2015 Moscow RUS,,False
+2015,31,abood matthew_1986,ABOOD Matthew,1986,29,22.16,2015-08-07,16th FINA World Championships 2015 Kazan RUS,SF,False
+2015,31,kalontarov ziv_1997,KALONTAROV Ziv,1997,18,22.16,2015-06-27,European Junior Swimming Championships 2015 Baku AZE,,False
+2015,34,santana matheus_1996,SANTANA Matheus,1996,19,22.17,2015-12-19,Open Tournament 2015 Palhoca BRA,,False
+2015,34,chierighini marcelo_1991,CHIERIGHINI Marcelo,1991,24,22.17,2015-12-19,Open Tournament 2015 Palhoca BRA,,False
+2015,34,bovell george_1983,BOVELL George,1983,32,22.17,2015-07-17,17th Pan American Games 2015 Toronto CAN,,False
+2015,34,heersbrandt francois_1989,HEERSBRANDT Francois,1989,26,22.17,2015-05-16,OPEN Belgian Swimming Championships 2015 Antwerp BEL,,False
+2015,34,ning zetao_1993,NING Zetao,1993,22,22.17,2015-04-09,Chinese National Championships (50m) Baoji CHN,,False
+2015,34,bocchia federico_1986,BOCCHIA Federico,1986,29,22.17,2015-03-13,5th Milano City Trophy - 2015 Milan ITA,,False
+2015,40,powers paul quinn_1995,POWERS Paul Quinn,1995,20,22.18,2015-07-09,28th Summer Universiade 2015 Gwangju KOR,SF,False
+2015,41,chalmers kyle_1998,CHALMERS Kyle,1998,17,22.19,2015-08-28,5th FINA World Junior Swimming Championships 201S5ingapore SGP,,False
+2015,41,aerents jasper_1992,AERENTS Jasper,1992,23,22.19,2015-05-09,Antwerp Diamond Speedo Race Antwerp BEL,,False
+2015,43,krug iv karl_1989,KRUG IV Karl,1989,26,22.21,2015-04-01,Canadian Swimming Trials 2015 Toronto CAN,,False
+2015,44,le clos chad_1992,LE CLOS Chad,1992,23,22.22,2015-11-07,FINA/airweave Swimming World Cup 2015 Dubai UAE,,False
+2015,44,risolvato erik jon_1994,RISOLVATO Erik Jon,1994,21,22.22,2015-07-17,17th Pan American Games 2015 Toronto CAN,,False
+2015,44,tsurkin yauhen_1990,TSURKIN Yauhen,1990,25,22.22,2015-07-10,28th Summer Universiade 2015 Gwangju KOR,,False
+2015,47,vitoria alan_1986,VITORIA Alan,1986,29,22.23,2015-04-08,Maria Lenk Trophy Rio de Janeiro BRA,,False
+2015,48,martins henrique_1991,MARTINS Henrique,1991,24,22.24,2015-07-10,28th Summer Universiade 2015 Gwangju KOR,,False
+2015,49,copeland william_1986,COPELAND William,1986,29,22.25,2015-08-08,US National Championships (50m) San Antonio USA,,False
+2015,49,grabich federico_1990,GRABICH Federico,1990,25,22.25,2015-07-17,17th Pan American Games 2015 Toronto CAN,H,False
+2016,1,manaudou florent_1990,MANAUDOU Florent,1990,26,21.32,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,SF,False
+2016,2,ervin anthony_1981,ERVIN Anthony,1981,35,21.4,2016-08-12,Olympic Games Rio 2016 Rio de Janeiro BRA,,False
+2016,3,mcevoy cameron_1994,MCEVOY Cameron,1994,22,21.44,2016-04-12,Australian National Championships (50m) Adelaide AUS,,False
+2016,4,govorov andrii_1992,GOVOROV Andrii,1992,24,21.46,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,SF,False
+2016,5,adrian nathan_1988,ADRIAN Nathan,1988,28,21.47,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,SF,False
+2016,6,proud benjamin_1994,PROUD Benjamin,1994,22,21.54,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,SF,False
+2016,7,morozov vladimir_1992,MOROZOV Vladimir,1992,24,21.69,2016-04-16,Russian National Championships (50m) Moscow RUS,,False
+2016,8,fratus bruno_1989,FRATUS Bruno,1989,27,21.71,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,SF,False
+2016,8,bilis simonas_1993,BILIS Simonas,1993,23,21.71,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,SF,False
+2016,10,jones cullen_1984,JONES Cullen,1984,32,21.75,2016-07-02,US Olympic Team Trials - Swimming Omaha USA,H,False
+2016,11,dressel caeleb_1996,DRESSEL Caeleb,1996,20,21.76,2016-07-01,US Olympic Team Trials - Swimming Omaha USA,H,False
+2016,12,tandy bradley_1991,TANDY Bradley,1991,25,21.79,2016-08-12,Olympic Games Rio 2016 Rio de Janeiro BRA,,False
+2016,13,wierling damian_1996,WIERLING Damian,1996,20,21.81,2016-05-08,German National Championships (50m) Berlin GER,,False
+2016,14,puts jesse_1994,PUTS Jesse,1994,22,21.82,2016-12-17,Amsterdam Swim Meet Amsterdam NED,,False
+2016,14,amaral duarte garofalo italo_1992,AMARAL DUARTE GAROFALO Italo,1992,24,21.82,2016-04-20,Maria Lenk Trophy - Test Event Rio de Janeiro BRA,,False
+2016,16,condorelli santo_1995,CONDORELLI Santo,1995,21,21.83,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,H,False
+2016,17,dotto luca_1990,DOTTO Luca,1990,26,21.84,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,SF,False
+2016,17,schneider josh_1988,SCHNEIDER Josh,1988,28,21.84,2016-07-01,US Olympic Team Trials - Swimming Omaha USA,H,False
+2016,19,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,23,21.89,2016-05-22,2016 European Aquatics Championships (50m) London GBR,,False
+2016,20,cielo filho cesar_1987,CIELO FILHO Cesar,1987,29,21.91,2016-04-20,Maria Lenk Trophy - Test Event Rio de Janeiro BRA,,False
+2016,21,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,27,21.92,2016-05-21,2016 European Aquatics Championships (50m) London GBR,SF,False
+2016,22,czerniak konrad_1989,CZERNIAK Konrad,1989,27,21.95,2016-03-19,Spanish Open National Championships Sabadell ESP,H,False
+2016,23,chadwick michael_1995,CHADWICK Michael,1995,21,21.96,2016-07-02,US Olympic Team Trials - Swimming Omaha USA,H,False
+2016,24,trandafir norbert_1988,TRANDAFIR Norbert,1988,28,21.99,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,SF,False
+2016,24,feigen jimmy_1989,FEIGEN Jimmy,1989,27,21.99,2016-07-02,US Olympic Team Trials - Swimming Omaha USA,H,False
+2016,26,shioura shinri_1991,SHIOURA Shinri,1991,25,22.01,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,H,False
+2016,27,nakamura katsumi_1994,NAKAMURA Katsumi,1994,22,22.03,2016-11-20,Asian Swimming Championships 2016 Tokyo JPN,,False
+2016,27,yu hexin_1996,YU Hexin,1996,20,22.03,2016-11-20,Asian Swimming Championships 2016 Tokyo JPN,,False
+2016,29,virva dillon randall_1993,VIRVA Dillon Randall,1993,23,22.06,2016-07-01,US Olympic Team Trials - Swimming Omaha USA,H,False
+2016,29,bocchia federico_1986,BOCCHIA Federico,1986,30,22.06,2016-04-22,Italian National Championships (50m) Riccione ITA,H,False
+2016,31,takacs krisztian_1985,TAKACS Krisztian,1985,31,22.07,2016-05-22,2016 European Aquatics Championships (50m) London GBR,,False
+2016,32,abood matthew_1986,ABOOD Matthew,1986,30,22.08,2016-04-12,Australian National Championships (50m) Adelaide AUS,,False
+2016,33,izzo giovanni_1998,IZZO Giovanni,1998,18,22.09,2016-07-10,European Junior Swimming Championships 2016 Hodmezovasarhely HUN,,False
+2016,33,copeland william_1986,COPELAND William,1986,30,22.09,2016-07-01,US Olympic Team Trials - Swimming Omaha USA,H,False
+2016,33,bousquet frederick_1981,BOUSQUET Frederick,1981,35,22.09,2016-04-03,French National Championships (50m) Montpellier FRA,,False
+2016,36,magnussen james_1991,MAGNUSSEN James,1991,25,22.12,2016-04-12,Australian National Championships (50m) Adelaide AUS,,False
+2016,36,grechin andrey_1987,GRECHIN Andrey,1987,29,22.12,2016-03-13,Swiss National Championships (50m) Zurich SUI,,False
+2016,38,brianskii aleksei_1997,BRIANSKII Aleksei,1997,19,22.13,2016-07-17,Russian National Swimming Cup Ruza RUS,,False
+2016,38,juraszek pawel_1994,JURASZEK Pawel,1994,22,22.13,2016-05-27,Polish National Championships (50m) Szczecin POL,,False
+2016,38,wypych filip_1991,WYPYCH Filip,1991,25,22.13,2016-05-27,Polish National Championships (50m) Szczecin POL,,False
+2016,41,abood andrew_1990,ABOOD Andrew,1990,26,22.14,2016-04-12,Australian National Championships (50m) Adelaide AUS,,False
+2016,42,chalmers kyle_1998,CHALMERS Kyle,1998,18,22.15,2016-03-28,GHF Australian Age Championships 2016 Adelaide AUS,,False
+2016,43,mignon clement_1993,MIGNON Clement,1993,23,22.16,2016-06-05,Mare Nostrum - 34th Meeting International de NatatiMono ndaec Moonte Carlo 20M16ON,H,False
+2016,44,powers paul quinn_1995,POWERS Paul Quinn,1995,21,22.17,2016-07-01,US Olympic Team Trials - Swimming Omaha USA,H,False
+2016,44,chierighini marcelo_1991,CHIERIGHINI Marcelo,1991,25,22.17,2016-04-20,Maria Lenk Trophy - Test Event Rio de Janeiro BRA,,False
+2016,44,stockwell william thomas_1995,STOCKWELL William Thomas,1995,21,22.17,2016-04-12,Australian National Championships (50m) Adelaide AUS,,False
+2016,47,fesikov sergei_1989,FESIKOV Sergei,1989,27,22.2,2016-04-22,Russian National Championships (50m) Moscow RUS,SF,False
+2016,48,andrew michael_1999,ANDREW Michael,1999,17,22.22,2016-07-01,US Olympic Team Trials - Swimming Omaha USA,H,False
+2016,48,roberts james_1991,ROBERTS James,1991,25,22.22,2016-04-12,Australian National Championships (50m) Adelaide AUS,,False
+2016,50,tjonajoe renzo_1995,TJON-A-JOE Renzo,1995,21,22.23,2016-08-11,Olympic Games Rio 2016 Rio de Janeiro BRA,H,False
+2016,50,becker bowen_1997,BECKER Bowen,1997,19,22.23,2016-08-06,US National Championships (50m) Minneapolis USA,,False
+2016,50,kisil yuri_1995,KISIL Yuri,1995,21,22.23,2016-04-05,Canadian Olympic Swimming Trials 2016 Toronto CAN,,False
+2017,1,dressel caeleb_1996,DRESSEL Caeleb,1996,21,21.15,2017-07-29,17th FINA World Championships 2017 Budapest HUN,,False
+2017,2,fratus bruno_1989,FRATUS Bruno,1989,28,21.27,2017-07-29,17th FINA World Championships 2017 Budapest HUN,,False
+2017,3,proud benjamin_1994,PROUD Benjamin,1994,23,21.32,2017-04-22,British National Championships (50m) Sheffield GBR,,False
+2017,4,morozov vladimir_1992,MOROZOV Vladimir,1992,25,21.44,2017-04-08,Russian National Championships (50m) Moscow RUS,,False
+2017,5,juraszek pawel_1994,JURASZEK Pawel,1994,23,21.47,2017-07-29,17th FINA World Championships 2017 Budapest HUN,,False
+2017,6,mcevoy cameron_1994,MCEVOY Cameron,1994,23,21.55,2017-04-09,Hancock Prospecting Australian Brisbane AUS,,False
+2017,7,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,28,21.58,2017-05-06,Tampere Open Swimming Championships 2017 Tampere FIN,,False
+2017,8,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,24,21.69,2017-07-28,17th FINA World Championships 2017 Budapest HUN,H,False
+2017,9,tandy bradley_1991,TANDY Bradley,1991,26,21.7,2017-08-06,US National Championships (50m) East Meadow USA,,False
+2017,10,sedov evgeny_1996,SEDOV Evgeny,1996,21,21.74,2017-04-08,Russian National Championships (50m) Moscow RUS,,False
+2017,11,andrew michael_1999,ANDREW Michael,1999,18,21.75,2017-08-25,6th FINA World Junior Swimming Championships 201I7ndianapolis USA,H,False
+2017,12,cielo filho cesar_1987,CIELO FILHO Cesar,1987,30,21.77,2017-07-28,17th FINA World Championships 2017 Budapest HUN,SF,False
+2017,13,adrian nathan_1988,ADRIAN Nathan,1988,29,21.83,2017-07-28,17th FINA World Championships 2017 Budapest HUN,SF,False
+2017,14,jones cullen_1984,JONES Cullen,1984,33,21.89,2017-07-01,US National Championships (50m) Indianapolis USA,H,False
+2017,15,dotto luca_1990,DOTTO Luca,1990,27,21.91,2017-08-01,Campionato Italiano di Categoria Rome ITA,,False
+2017,15,roberts james_1991,ROBERTS James,1991,26,21.91,2017-04-09,Hancock Prospecting Australian Brisbane AUS,,False
+2017,17,amaral duarte garofalo italo_1992,AMARAL DUARTE GAROFALO Italo,1992,25,21.93,2017-08-25,29th Summer Universiade 2017 Taipei City TPE,SF,False
+2017,17,wierling damian_1996,WIERLING Damian,1996,21,21.93,2017-07-28,17th FINA World Championships 2017 Budapest HUN,SF,False
+2017,19,puts jesse_1994,PUTS Jesse,1994,23,21.95,2017-04-08,Swim Cup Eindhoven 2017 / NK zwemmen 2017 Eindhoven NED,,False
+2017,20,govorov andrii_1992,GOVOROV Andrii,1992,25,21.96,2017-07-28,17th FINA World Championships 2017 Budapest HUN,SF,False
+2017,21,nakamura katsumi_1994,NAKAMURA Katsumi,1994,23,21.97,2017-04-16,Japan Swim 2017 Aichi JPN,,False
+2017,21,shioura shinri_1991,SHIOURA Shinri,1991,26,21.97,2017-04-16,Japan Swim 2017 Aichi JPN,,False
+2017,23,ning zetao_1993,NING Zetao,1993,24,21.98,2017-09-01,2017 National Games Tianjin CHN,,False
+2017,23,magnussen james_1991,MAGNUSSEN James,1991,26,21.98,2017-06-23,54th International Trophy Sette Colli Rome ITA,,False
+2017,25,chadwick michael_1995,CHADWICK Michael,1995,22,21.99,2017-08-05,Israel National Summer Championship (50m) Netanya ISR,,False
+2017,26,apple zach_1997,APPLE Zach,1997,20,22.0,2017-07-01,US National Championships (50m) Indianapolis USA,H,False
+2017,27,cumberlidge david_1996,CUMBERLIDGE David,1996,21,22.03,2017-07-29,British National Championships (50m) Sheffield GBR,H,False
+2017,27,nakao shunichi_1995,NAKAO Shunichi,1995,22,22.03,2017-04-16,Japan Swim 2017 Aichi JPN,,False
+2017,29,de boer thom_1991,DE BOER Thom,1991,26,22.04,2017-04-08,Swim Cup Eindhoven 2017 / NK zwemmen 2017 Eindhoven NED,,False
+2017,30,izzo giovanni_1998,IZZO Giovanni,1998,19,22.05,2017-08-01,Campionato Italiano di Categoria Rome ITA,,False
+2017,30,takacs krisztian_1985,TAKACS Krisztian,1985,32,22.05,2017-07-28,17th FINA World Championships 2017 Budapest HUN,SF,False
+2017,32,zazzeri lorenzo_1994,ZAZZERI Lorenzo,1994,23,22.07,2017-08-25,29th Summer Universiade 2017 Taipei City TPE,SF,False
+2017,33,chierighini marcelo_1991,CHIERIGHINI Marcelo,1991,26,22.09,2017-12-09,Brazilian Torneio Open Rio de Janeiro BRA,,False
+2017,33,ervin anthony_1981,ERVIN Anthony,1981,36,22.09,2017-07-01,US National Championships (50m) Indianapolis USA,H,False
+2017,33,czerniak konrad_1989,CZERNIAK Konrad,1989,28,22.09,2017-05-18,Polish National Championships (50m) Lublin POL,,False
+2017,36,fannon thomas_1998,FANNON Thomas,1998,19,22.1,2017-12-17,Swim England Winter Champs 2017 Sheffield GBR,,False
+2017,37,kisil yuri_1995,KISIL Yuri,1995,22,22.11,2017-08-04,Canadian National Championships (50m) Montreal CAN,,False
+2017,38,vergani andrea_1997,VERGANI Andrea,1997,20,22.12,2017-08-01,Campionato Italiano di Categoria Rome ITA,,False
+2017,38,khalafalla ali_1996,KHALAFALLA Ali,1996,21,22.12,2017-06-03,Arena Pro Swim Series Santa Clara 2017 Santa Clara USA,H,False
+2017,40,shevtsov sergii_1998,SHEVTSOV Sergii,1998,19,22.13,2017-07-28,17th FINA World Championships 2017 Budapest HUN,H,False
+2017,41,fesikov sergei_1989,FESIKOV Sergei,1989,28,22.14,2017-04-08,Russian National Championships (50m) Moscow RUS,,False
+2017,42,held ryan_1995,HELD Ryan,1995,22,22.16,2017-08-25,29th Summer Universiade 2017 Taipei City TPE,H,False
+2017,43,brianskii aleksei_1997,BRIANSKII Aleksei,1997,20,22.18,2017-08-26,29th Summer Universiade 2017 Taipei City TPE,,False
+2017,44,shi yang_1989,SHI Yang,1989,28,22.19,2017-09-01,2017 National Games Tianjin CHN,,False
+2017,45,santos gabriel_1996,SANTOS Gabriel,1996,21,22.2,2017-12-12,49th Military World Championships Rio de Janeiro BRA,,False
+2017,46,virva dillon randall_1993,VIRVA Dillon Randall,1993,24,22.21,2017-07-01,US National Championships (50m) Indianapolis USA,H,False
+2017,46,wypych filip_1991,WYPYCH Filip,1991,26,22.21,2017-05-18,Polish National Championships (50m) Lublin POL,,False
+2017,48,cheruti meiron amir_1997,CHERUTI Meiron Amir,1997,20,22.22,2017-08-05,Israel National Summer Championship (50m) Netanya ISR,,False
+2017,48,sahnoune oussama_1992,SAHNOUNE Oussama,1992,25,22.22,2017-05-28,French National Championships (50m) Schiltigheim FRA,,False
+2017,48,timmers pieter_1988,TIMMERS Pieter,1988,29,22.22,2017-05-13,Belgian National Championships (50m) Antwerp BEL,,False
+2018,1,proud benjamin_1994,PROUD Benjamin,1994,24,21.11,2018-08-08,2018 European Aquatics Championships (50m) Glasgow GBR,SF,False
+2018,2,fratus bruno_1989,FRATUS Bruno,1989,29,21.35,2018-04-18,Trofeu Brazil - Maria Lenk Rio de Janeiro BRA,,False
+2018,3,vergani andrea_1997,VERGANI Andrea,1997,21,21.37,2018-08-08,2018 European Aquatics Championships (50m) Glasgow GBR,SF,False
+2018,4,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,25,21.44,2018-08-09,2018 European Aquatics Championships (50m) Glasgow GBR,,False
+2018,4,morozov vladimir_1992,MOROZOV Vladimir,1992,26,21.44,2018-08-08,2018 European Aquatics Championships (50m) Glasgow GBR,SF,False
+2018,6,juraszek pawel_1994,JURASZEK Pawel,1994,24,21.45,2018-05-24,Polish National Championships (50m) Lodz POL,H,False
+2018,7,andrew michael_1999,ANDREW Michael,1999,19,21.46,2018-08-12,13th Pan Pacific Championships 2018 Tokyo JPN,,False
+2018,8,dressel caeleb_1996,DRESSEL Caeleb,1996,22,21.67,2018-07-29,US National Championships (50m) Irvine USA,H,False
+2018,9,bilis simonas_1993,BILIS Simonas,1993,25,21.7,2018-08-08,2018 European Aquatics Championships (50m) Glasgow GBR,SF,False
+2018,10,govorov andrii_1992,GOVOROV Andrii,1992,26,21.74,2018-08-08,2018 European Aquatics Championships (50m) Glasgow GBR,SF,False
+2018,11,tandy bradley_1991,TANDY Bradley,1991,27,21.78,2018-04-09,21st Commonwealth Games 2018 Gold Coast AUS,H,False
+2018,12,sahnoune oussama_1992,SAHNOUNE Oussama,1992,26,21.82,2018-07-14,4th Arab Open Swimming Championships 2018 Rades TUN,,False
+2018,12,spajari pedro_1997,SPAJARI Pedro,1997,21,21.82,2018-04-21,Trofeu Brazil - Maria Lenk Rio de Janeiro BRA,,False
+2018,14,adrian nathan_1988,ADRIAN Nathan,1988,30,21.85,2018-07-29,US National Championships (50m) Irvine USA,H,False
+2018,14,puts jesse_1994,PUTS Jesse,1994,24,21.85,2018-04-15,Swim Cup Eindhoven 2018 Eindhoven NED,,False
+2018,16,mcevoy cameron_1994,MCEVOY Cameron,1994,24,21.87,2018-03-03,Hancock Prospecting National Championships AustralGiao (l5d0 Cmo)ast AUS,H,False
+2018,16,nakamura katsumi_1994,NAKAMURA Katsumi,1994,24,21.87,2018-02-11,2018 Kirara Cup JPN,,False
+2018,18,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,29,21.88,2018-04-13,Swim Cup Eindhoven 2018 Eindhoven NED,,False
+2018,19,czerniak konrad_1989,CZERNIAK Konrad,1989,29,21.9,2018-05-24,Polish National Championships (50m) Lodz POL,H,False
+2018,20,sendyk pawel_1997,SENDYK Pawel,1997,21,21.91,2018-05-24,Polish National Championships (50m) Lodz POL,H,False
+2018,21,miressi alessandro_1998,MIRESSI Alessandro,1998,20,21.94,2018-08-11,Italian National Championships (50m) Rome ITA,,False
+2018,22,khalafalla ali_1996,KHALAFALLA Ali,1996,22,21.97,2018-06-25,18th Mediterranean Games 2018 Tarragona ESP,,False
+2018,22,dotto luca_1990,DOTTO Luca,1990,28,21.97,2018-04-10,Campionato Italiano Assoluto UnipolSai 2018 Riccione ITA,,False
+2018,22,roberts james_1991,ROBERTS James,1991,27,21.97,2018-03-03,Hancock Prospecting National Championships AustralGiao (l5d0 Cmo)ast AUS,H,False
+2018,25,chadwick michael_1995,CHADWICK Michael,1995,23,22.0,2018-07-29,US National Championships (50m) Irvine USA,H,False
+2018,25,cumberlidge david_1996,CUMBERLIDGE David,1996,22,22.0,2018-04-10,21st Commonwealth Games 2018 Gold Coast AUS,,False
+2018,27,cielo filho cesar_1987,CIELO FILHO Cesar,1987,31,22.01,2018-04-21,Trofeu Brazil - Maria Lenk Rio de Janeiro BRA,,False
+2018,27,shioura shinri_1991,SHIOURA Shinri,1991,27,22.01,2018-04-05,Japan Swim 2018 Tokyo JPN,SF,False
+2018,29,kisil yuri_1995,KISIL Yuri,1995,23,22.02,2018-08-12,13th Pan Pacific Championships 2018 Tokyo JPN,,False
+2018,30,jensen michael_1997,JENSEN Michael,1997,21,22.03,2018-07-29,US National Championships (50m) Irvine USA,H,False
+2018,31,magnussen james_1991,MAGNUSSEN James,1991,27,22.05,2018-04-10,21st Commonwealth Games 2018 Gold Coast AUS,,False
+2018,32,blaskovic bruno_1998,BLASKOVIC Bruno,1998,20,22.06,2018-08-08,2018 European Aquatics Championships (50m) Glasgow GBR,SF,False
+2018,32,apple zach_1997,APPLE Zach,1997,21,22.06,2018-07-29,US National Championships (50m) Irvine USA,H,False
+2018,32,matsui kosuke_1994,MATSUI Kosuke,1994,24,22.06,2018-04-05,Japan Swim 2018 Tokyo JPN,SF,False
+2018,35,jackson tate_1997,JACKSON Tate,1997,21,22.09,2018-07-29,US National Championships (50m) Irvine USA,H,False
+2018,35,fannon thomas_1998,FANNON Thomas,1998,20,22.09,2018-04-09,21st Commonwealth Games 2018 Gold Coast AUS,SF,False
+2018,37,fesikov sergei_1989,FESIKOV Sergei,1989,29,22.1,2018-04-25,Russian National Championships (50m) Moscow RUS,SF,False
+2018,38,yu hexin_1996,YU Hexin,1996,22,22.11,2018-08-21,18th Asian Games 2018 Jakarta INA,,False
+2018,39,wierling damian_1996,WIERLING Damian,1996,22,22.12,2018-07-22,130th Internationale Deutsche Meisterschaften 2018Berlin GER,H,False
+2018,39,kuzmenko ivan_1995,KUZMENKO Ivan,1995,23,22.12,2018-04-25,Russian National Championships (50m) Moscow RUS,SF,False
+2018,41,govindin yonel_1993,GOVINDIN Yonel,1993,25,22.13,2018-05-25,French National Championships (50m) Saint Raphael FRA,,False
+2018,42,grousset maxime_1999,GROUSSET Maxime,1999,19,22.14,2018-05-27,French National Championships (50m) Saint Raphael FRA,,False
+2018,42,wypych filip_1991,WYPYCH Filip,1991,27,22.14,2018-05-24,Polish National Championships (50m) Lodz POL,H,False
+2018,44,de coursey kyle_1996,DE COURSEY Kyle,1996,22,22.15,2018-07-29,US National Championships (50m) Irvine USA,H,False
+2018,44,nakao shunichi_1995,NAKAO Shunichi,1995,23,22.15,2018-04-06,Japan Swim 2018 Tokyo JPN,SF,False
+2018,46,pieroni blake_1995,PIERONI Blake,1995,23,22.17,2018-09-13,FINA Swimming World Cup 2018 Doha QAT,,False
+2018,46,howard robert_1996,HOWARD Robert,1996,22,22.17,2018-07-29,US National Championships (50m) Irvine USA,H,False
+2018,46,santos gabriel_1996,SANTOS Gabriel,1996,22,22.17,2018-04-21,Trofeu Brazil - Maria Lenk Rio de Janeiro BRA,,False
+2018,49,tjonajoe renzo_1995,TJON-A-JOE Renzo,1995,23,22.18,2018-07-25,23rd Central American and Caribbean Games 2018 Barranquilla COL,,False
+2018,50,holub jan_1996,HOLUB Jan,1996,22,22.19,2018-05-24,Polish National Championships (50m) Lodz POL,H,False
+2019,1,dressel caeleb_1996,DRESSEL Caeleb,1996,23,21.04,2019-07-27,18th FINA World Championships 2019 Gwangju KOR,,False
+2019,2,morozov vladimir_1992,MOROZOV Vladimir,1992,27,21.27,2019-08-15,FINA Swimming World Cup 2019 Singapore SGP,,False
+2019,3,fratus bruno_1989,FRATUS Bruno,1989,30,21.31,2019-06-09,Mare Nostrum - 37th Meeting International de NatatiMono ndaec Moonte Carlo 20M19ON,,False
+2019,4,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,26,21.45,2019-07-27,18th FINA World Championships 2019 Gwangju KOR,,False
+2019,5,proud benjamin_1994,PROUD Benjamin,1994,25,21.48,2019-04-28,FINA Champions Swim Series 2019 Guangzhou CHN,,False
+2019,6,vergani andrea_1997,VERGANI Andrea,1997,22,21.53,2019-04-02,Italian National Championships (50m) Riccione ITA,,False
+2019,7,andrew michael_1999,ANDREW Michael,1999,20,21.62,2019-07-27,18th FINA World Championships 2019 Gwangju KOR,,False
+2019,8,juraszek pawel_1994,JURASZEK Pawel,1994,25,21.67,2019-07-27,18th FINA World Championships 2019 Gwangju KOR,,False
+2019,8,shioura shinri_1991,SHIOURA Shinri,1991,28,21.67,2019-04-07,Japan National Championships (50m) Tokyo JPN,SF,False
+2019,10,manaudou florent_1990,MANAUDOU Florent,1990,29,21.72,2019-06-21,56th International Trophy Sette Colli Rome ITA,,False
+2019,11,lobanovskij maxim_1996,LOBANOVSKIJ Maxim,1996,23,21.79,2019-03-27,Hungarian National Championships (50m) Debrecen HUN,,False
+2019,12,apple zach_1997,APPLE Zach,1997,22,21.81,2019-12-05,USA Winter National Championships (50m) Atlanta USA,,False
+2019,13,selin artem_2002,SELIN Artem,2002,17,21.83,2019-07-07,European Junior Swimming Championships 2019 Kazan RUS,,False
+2019,14,deplano leonardo_1999,DEPLANO Leonardo,1999,20,21.85,2019-08-02,Italian National Junior Championships (50m) Rome ITA,,False
+2019,15,grousset maxime_1999,GROUSSET Maxime,1999,20,21.86,2019-07-26,18th FINA World Championships 2019 Gwangju KOR,SF,False
+2019,16,adrian nathan_1988,ADRIAN Nathan,1988,31,21.87,2019-08-09,18th Pan American Games 2019 Lima PER,,False
+2019,16,held ryan_1995,HELD Ryan,1995,24,21.87,2019-08-04,Philipps 66 USA National Championships (50m) Palo Alto USA,,False
+2019,16,cheruti meiron amir_1997,CHERUTI Meiron Amir,1997,22,21.87,2019-08-02,Isreal Summer National Championships (50m) Wingate ISR,,False
+2019,19,mcevoy cameron_1994,MCEVOY Cameron,1994,25,21.88,2019-07-26,18th FINA World Championships 2019 Gwangju KOR,SF,False
+2019,20,puts jesse_1994,PUTS Jesse,1994,25,21.91,2019-07-26,18th FINA World Championships 2019 Gwangju KOR,SF,False
+2019,21,tandy bradley_1991,TANDY Bradley,1991,28,21.92,2019-04-12,South African National Championships (50m) Durban RSA,H,False
+2019,22,matsui kosuke_1994,MATSUI Kosuke,1994,25,21.93,2019-10-11,FINA Swimming World Cup 2019 Berlin GER,,False
+2019,22,mignon clement_1993,MIGNON Clement,1993,26,21.93,2019-04-21,French National Championships (50m) Rennes FRA,,False
+2019,24,curtiss david_2002,CURTISS David,2002,17,21.95,2019-08-22,7th FINA World Junior Swimming Championships 201B9udapest HUN,SF,False
+2019,24,chadwick michael_1995,CHADWICK Michael,1995,24,21.95,2019-08-09,18th Pan American Games 2019 Lima PER,H,False
+2019,26,sahnoune oussama_1992,SAHNOUNE Oussama,1992,27,21.96,2019-04-21,French National Championships (50m) Rennes FRA,,False
+2019,27,cumberlidge david_1996,CUMBERLIDGE David,1996,23,21.97,2019-07-10,30th Summer Universiade 2019 Napoli ITA,,False
+2019,28,khalafalla ali_1996,KHALAFALLA Ali,1996,23,21.98,2019-07-26,18th FINA World Championships 2019 Gwangju KOR,SF,False
+2019,28,dotto luca_1990,DOTTO Luca,1990,29,21.98,2019-04-02,Italian National Championships (50m) Riccione ITA,,False
+2019,30,becker bowen_1997,BECKER Bowen,1997,22,22.0,2019-08-04,Philipps 66 USA National Championships (50m) Palo Alto USA,,False
+2019,30,howard robert_1996,HOWARD Robert,1996,23,22.0,2019-08-04,Philipps 66 USA National Championships (50m) Palo Alto USA,,False
+2019,32,pieroni blake_1995,PIERONI Blake,1995,24,22.03,2019-08-02,FINA Swimming World Cup 2019 Tokyo JPN,,False
+2019,32,chierighini marcelo_1991,CHIERIGHINI Marcelo,1991,28,22.03,2019-07-26,18th FINA World Championships 2019 Gwangju KOR,H,False
+2019,34,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,30,22.06,2019-06-30,Finnish National Championships (50m) Espoo FIN,,False
+2019,34,condorelli santo_1995,CONDORELLI Santo,1995,24,22.06,2019-06-21,56th International Trophy Sette Colli Rome ITA,H,False
+2019,34,nakamura katsumi_1994,NAKAMURA Katsumi,1994,25,22.06,2019-01-19,SA State Championships 2019 (50m) SA Aquatic & Leisure AUS,,False
+2019,37,spajari pedro_1997,SPAJARI Pedro,1997,22,22.07,2019-04-21,Maria Lenk / Brazil Trophy Rio de Janeiro BRA,,False
+2019,37,chalmers kyle_1998,CHALMERS Kyle,1998,21,22.07,2019-04-12,Hancock Prospecting Australian National ChampionshAipdse (la5i0dme) AUS,,False
+2019,39,yu hexin_1996,YU Hexin,1996,23,22.08,2019-07-26,18th FINA World Championships 2019 Gwangju KOR,H,False
+2019,40,bukhov vladyslav_2002,BUKHOV Vladyslav,2002,17,22.09,2019-08-22,7th FINA World Junior Swimming Championships 201B9udapest HUN,SF,False
+2019,41,de boer thom_1991,DE BOER Thom,1991,28,22.1,2019-12-15,Swimcup Amsterdam Amsterdam NED,H,False
+2019,41,simons kenzo_2001,SIMONS Kenzo,2001,18,22.1,2019-07-07,European Junior Swimming Championships 2019 Kazan RUS,,False
+2019,43,kuzmenko ivan_1995,KUZMENKO Ivan,1995,24,22.12,2019-04-12,Russian National Championships (50m) Moscow RUS,,False
+2019,44,sakai koshiro_1996,SAKAI Koshiro,1996,23,22.13,2019-09-16,National Games - Swimming Competition Ibaraki JPN,,False
+2019,44,grinev vladislav_1996,GRINEV Vladislav,1996,23,22.13,2019-04-12,Russian National Championships (50m) Moscow RUS,,False
+2019,44,rylov evgeny_1996,RYLOV Evgeny,1996,23,22.13,2019-04-12,Russian National Championships (50m) Moscow RUS,,False
+2019,47,nakao shunichi_1995,NAKAO Shunichi,1995,24,22.14,2019-06-02,Japan Open (50m) 2019 Tokyo JPN,,False
+2019,47,santos gabriel_1996,SANTOS Gabriel,1996,23,22.14,2019-04-21,Maria Lenk / Brazil Trophy Rio de Janeiro BRA,,False
+2019,49,burras lewis edward_2000,BURRAS Lewis Edward,2000,19,22.15,2019-08-04,Philipps 66 USA National Championships (50m) Palo Alto USA,,False
+2019,50,zazzeri lorenzo_1994,ZAZZERI Lorenzo,1994,25,22.16,2019-04-02,Italian National Championships (50m) Riccione ITA,,False
+2020,1,dressel caeleb_1996,DRESSEL Caeleb,1996,24,21.51,2020-03-07,TYR Pro Swim Series Des Moines 2020 Des Moines USA,,False
+2020,2,morozov vladimir_1992,MOROZOV Vladimir,1992,28,21.55,2020-01-18,FINA Champions Swim Series 2020 Beijing CHN,,False
+2020,3,manaudou florent_1990,MANAUDOU Florent,1990,30,21.56,2020-01-25,22nd Luxembourg Euro Meet 2020 Luxembourg LUX,,False
+2020,4,de boer thom_1991,DE BOER Thom,1991,29,21.74,2020-12-03,Rotterdam Qualification Meet 2020 Rotterdam NED,H,False
+2020,5,lobanovskij maxim_1996,LOBANOVSKIJ Maxim,1996,24,21.77,2020-12-08,Hungarian National Championships (50m) Kaposvar HUN,H,False
+2020,5,fratus bruno_1989,FRATUS Bruno,1989,31,21.77,2020-01-25,22nd Luxembourg Euro Meet 2020 Luxembourg LUX,,False
+2020,7,yu hexin_1996,YU Hexin,1996,24,21.79,2020-09-26,2020 China National Swimming Championships Qingdao CHN,,False
+2020,8,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,27,21.86,2020-01-18,FINA Champions Swim Series 2020 Beijing CHN,,False
+2020,9,adrian nathan_1988,ADRIAN Nathan,1988,32,21.88,2020-03-07,TYR Pro Swim Series Des Moines 2020 Des Moines USA,,False
+2020,10,andrew michael_1999,ANDREW Michael,1999,21,21.89,2020-01-18,FINA Champions Swim Series 2020 Beijing CHN,,False
+2020,11,mignon clement_1993,MIGNON Clement,1993,27,21.91,2020-12-11,French National Championships (50m) St-Raphael FRA,,False
+2020,12,miressi alessandro_1998,MIRESSI Alessandro,1998,22,21.93,2020-08-11,57th International Trophy Sette Colli Rome ITA,,False
+2020,13,shioura shinri_1991,SHIOURA Shinri,1991,29,21.96,2020-12-06,Japan National Championships (50m) Tokoy JPN,,False
+2020,14,hayden brent_1983,HAYDEN Brent,1983,37,21.97,2020-03-07,TYR Pro Swim Series Des Moines 2020 Des Moines USA,,False
+2020,14,bukhov vladyslav_2002,BUKHOV Vladyslav,2002,18,21.97,2020-01-25,22nd Luxembourg Euro Meet 2020 Luxembourg LUX,,False
+2020,16,korstanje nyls_1999,KORSTANJE Nyls,1999,21,21.98,2020-12-03,Rotterdam Qualification Meet 2020 Rotterdam NED,,False
+2020,17,tandy bradley_1991,TANDY Bradley,1991,29,22.01,2020-03-07,TYR Pro Swim Series Des Moines 2020 Des Moines USA,,False
+2020,18,simons kenzo_2001,SIMONS Kenzo,2001,19,22.02,2020-12-03,Rotterdam Qualification Meet 2020 Rotterdam NED,,False
+2020,19,proud benjamin_1994,PROUD Benjamin,1994,26,22.04,2020-01-25,22nd Luxembourg Euro Meet 2020 Luxembourg LUX,,False
+2020,20,bori alessandro_1997,BORI Alessandro,1997,23,22.05,2020-12-17,Italian Open Swimming Championships (50m) Riccione ITA,,False
+2020,20,arruabarrena mayor unai_2001,ARRUABARRENA MAYOR Unai,2001,19,22.05,2020-02-28,Open Comunidad de Madrid Madrid ESP,H,True
+2020,22,cheruti meiron amir_1997,CHERUTI Meiron Amir,1997,23,22.06,2020-12-16,Israel National Winter Trials Netanya ISR,,False
+2020,23,matsui kosuke_1994,MATSUI Kosuke,1994,26,22.07,2020-12-06,Japan National Championships (50m) Tokoy JPN,,False
+2020,24,apple zach_1997,APPLE Zach,1997,23,22.08,2020-03-07,TYR Pro Swim Series Des Moines 2020 Des Moines USA,,False
+2020,25,grousset maxime_1999,GROUSSET Maxime,1999,21,22.09,2020-12-11,French National Championships (50m) St-Raphael FRA,,False
+2020,26,deplano leonardo_1999,DEPLANO Leonardo,1999,21,22.1,2020-08-11,57th International Trophy Sette Colli Rome ITA,,False
+2020,27,sakai koshiro_1996,SAKAI Koshiro,1996,24,22.11,2020-01-26,Kosuke Kitajima Cup 2020 Tokyo JPN,,False
+2020,28,chadwick michael_1995,CHADWICK Michael,1995,25,22.12,2020-03-07,TYR Pro Swim Series Des Moines 2020 Des Moines USA,,False
+2020,29,nemeth nandor_1999,NEMETH Nandor,1999,21,22.14,2020-12-08,Hungarian National Championships (50m) Kaposvar HUN,H,False
+2020,30,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,31,22.15,2020-09-19,Speedo Cup Espoo FIN,,False
+2020,31,nascimento miguel_1995,NASCIMENTO Miguel,1995,25,22.16,2020-12-19,Open de Jamor Jamor POR,,False
+2020,31,pijnenburg stan_1996,PIJNENBURG Stan,1996,24,22.16,2020-12-03,Rotterdam Qualification Meet 2020 Rotterdam NED,H,False
+2020,31,yang jaehoon_1998,YANG Jaehoon,1998,22,22.16,2020-11-20,Korean National Trials 2020 Gimcheon KOR,,False
+2020,31,kawane masahiro_1999,KAWANE Masahiro,1999,21,22.16,2020-10-01,Japan Inter-College Swimming Competition Tokyo JPN,,False
+2020,35,puts jesse_1994,PUTS Jesse,1994,26,22.18,2020-12-03,Rotterdam Qualification Meet 2020 Rotterdam NED,H,False
+2020,36,kuzmenko ivan_1995,KUZMENKO Ivan,1995,25,22.21,2020-10-28,Russian National Championships (50m) Kazan RUS,,False
+2020,36,scott duncan_1997,SCOTT Duncan,1997,23,22.21,2020-03-14,Edinburgh International Swim Meet Edinburgh GBR,,False
+2020,38,mcevoy cameron_1994,MCEVOY Cameron,1994,26,22.23,2020-12-15,McDonald’s Queensland Championships 2020 Brisbane AUS,,False
+2020,39,govorov andrii_1992,GOVOROV Andrii,1992,28,22.24,2020-01-25,22nd Luxembourg Euro Meet 2020 Luxembourg LUX,H,False
+2020,40,vergani andrea_1997,VERGANI Andrea,1997,23,22.26,2020-08-11,57th International Trophy Sette Colli Rome ITA,,False
+2020,41,condorelli santo_1995,CONDORELLI Santo,1995,25,22.27,2020-11-13,Toyota US Open 2020 Different Area USA,,False
+2020,41,nakamura katsumi_1994,NAKAMURA Katsumi,1994,26,22.27,2020-11-07,Japan Corporate Swimming Championships 2020 Wakayama JPN,,False
+2020,43,szabo szebasztian_1996,SZABO Szebasztian,1996,24,22.28,2020-12-08,Hungarian National Championships (50m) Kaposvar HUN,H,False
+2020,43,markov daniil_2000,MARKOV Daniil,2000,20,22.28,2020-10-28,Russian National Championships (50m) Kazan RUS,,False
+2020,43,tanaka yuya_1998,TANAKA Yuya,1998,22,22.28,2020-10-01,Japan Inter-College Swimming Competition Tokyo JPN,,False
+2020,46,bain calum_1996,BAIN Calum,1996,24,22.29,2020-03-14,Edinburgh International Swim Meet Edinburgh GBR,H,False
+2020,46,held ryan_1995,HELD Ryan,1995,25,22.29,2020-03-07,TYR Pro Swim Series Des Moines 2020 Des Moines USA,,False
+2020,46,bilis simonas_1993,BILIS Simonas,1993,27,22.29,2020-01-25,22nd Luxembourg Euro Meet 2020 Luxembourg LUX,,False
+2020,49,pickett michael_2002,PICKETT Michael,2002,18,22.31,2020-12-15,McDonald’s Queensland Championships 2020 Brisbane AUS,,False
+2020,49,wu chunfeng_1990,WU Chun-Feng,1990,30,22.31,2020-10-31,National Intercollegiate Athletic Games 2020 Kaoshiung TPE,,False
+2021,1,dressel caeleb_1996,DRESSEL Caeleb,1996,25,21.04,2021-06-20,US Olympic Team Trials - Wave II Omaha USA,,False
+2021,2,morozov vladimir_1992,MOROZOV Vladimir,1992,29,21.41,2021-04-09,Russian National Championships (50m) Kazan RUS,,False
+2021,3,proud benjamin_1994,PROUD Benjamin,1994,27,21.42,2021-04-17,British National Swimming Championships (50m) London GBR,,False
+2021,4,andrew michael_1999,ANDREW Michael,1999,22,21.48,2021-06-20,US Olympic Team Trials - Wave II Omaha USA,,False
+2021,5,manaudou florent_1990,MANAUDOU Florent,1990,31,21.53,2021-07-31,Olympic Games Tokyo 2020 Tokyo JPN,SF,False
+2021,6,fratus bruno_1989,FRATUS Bruno,1989,32,21.57,2021-08-01,Olympic Games Tokyo 2020 Tokyo JPN,,False
+2021,7,de boer thom_1991,DE BOER Thom,1991,30,21.58,2021-07-03,Swimmeet Amsterdam Amsterdam NED,,False
+2021,8,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,28,21.6,2021-07-31,Olympic Games Tokyo 2020 Tokyo JPN,SF,False
+2021,9,liukkonen aripekka_1989,LIUKKONEN Ari-Pekka,1989,32,21.61,2021-05-23,2021 European Aquatics Championships (50m) Budapest HUN,,False
+2021,10,yu hexin_1996,YU Hexin,1996,25,21.68,2021-09-26,The 14th National Games of the People's Republic of CXih'ainna CHN,,False
+2021,11,seeliger bjoern_2000,SEELIGER Bjoern,2000,21,21.71,2021-06-26,58th International Trophy Sette Colli Rome ITA,,True
+2021,12,juraszek pawel_1994,JURASZEK Pawel,1994,27,21.72,2021-04-28,Polish National Championships (50m) Lublin POL,H,False
+2021,13,bukhov vladyslav_2002,BUKHOV Vladyslav,2002,19,21.73,2021-07-30,Olympic Games Tokyo 2020 Tokyo JPN,H,False
+2021,13,adrian nathan_1988,ADRIAN Nathan,1988,33,21.73,2021-06-20,US Olympic Team Trials - Wave II Omaha USA,,False
+2021,15,grousset maxime_1999,GROUSSET Maxime,1999,22,21.74,2021-06-20,National French Championships (50m) Chartres FRA,,False
+2021,16,zazzeri lorenzo_1994,ZAZZERI Lorenzo,1994,27,21.75,2021-07-31,Olympic Games Tokyo 2020 Tokyo JPN,SF,False
+2021,17,becker bowen_1997,BECKER Bowen,1997,24,21.78,2021-06-20,US Olympic Team Trials - Wave II Omaha USA,,False
+2021,18,kolesnikov kliment_2000,KOLESNIKOV Kliment,2000,21,21.82,2021-07-31,Olympic Games Tokyo 2020 Tokyo JPN,SF,False
+2021,18,hayden brent_1983,HAYDEN Brent,1983,38,21.82,2021-07-31,Olympic Games Tokyo 2020 Tokyo JPN,SF,False
+2021,20,puts jesse_1994,PUTS Jesse,1994,27,21.84,2021-07-30,Olympic Games Tokyo 2020 Tokyo JPN,H,False
+2021,21,miressi alessandro_1998,MIRESSI Alessandro,1998,23,21.86,2021-05-22,2021 European Aquatics Championships (50m) Budapest HUN,SF,False
+2021,22,curtiss david_2002,CURTISS David,2002,19,21.87,2021-01-16,TYR Pro Swim Series Richmond 2021 Richmond USA,H,False
+2021,23,liendo josh_2002,LIENDO Josh,2002,19,21.9,2021-06-21,Olympic Swimming Trials 2020 Toronto CAN,,False
+2021,24,ress justin_1997,RESS Justin,1997,24,21.91,2021-06-19,US Olympic Team Trials - Wave II Omaha USA,SF,False
+2021,25,mestre alberto_1999,MESTRE Alberto,1999,22,21.93,2021-06-27,Bahamas National Championships (50m) Nassau BAH,SF,False
+2021,26,miljenic nikola_1998,MILJENIC Nikola,1998,23,21.95,2021-06-27,Golden Bear 2021 Zagreb CRO,,False
+2021,27,cheruti meiron amir_1997,CHERUTI Meiron Amir,1997,24,21.96,2021-06-11,Israel National Summer Trial and Championships Netanya ISR,,False
+2021,28,ho ian yentou_1997,HO Ian Yentou,1997,24,21.97,2021-06-20,Hong Kong Long Course Swimming Time Trial IV Hong Kong HKG,,False
+2021,28,nakamura katsumi_1994,NAKAMURA Katsumi,1994,27,21.97,2021-04-10,Japan National Championships (50m) Tokyo JPN,,False
+2021,30,condorelli santo_1995,CONDORELLI Santo,1995,26,22.0,2021-06-25,58th International Trophy Sette Colli Rome ITA,,False
+2021,30,chaney adam_2002,CHANEY Adam,2002,19,22.0,2021-06-19,US Olympic Team Trials - Wave II Omaha USA,SF,False
+2021,30,chadwick michael_1995,CHADWICK Michael,1995,26,22.0,2021-06-19,US Olympic Team Trials - Wave II Omaha USA,H,False
+2021,30,czerniak konrad_1989,CZERNIAK Konrad,1989,32,22.0,2021-05-22,2021 European Aquatics Championships (50m) Budapest HUN,H,False
+2021,34,castano garcia gabriel_1997,CASTANO GARCIA Gabriel,1997,24,22.01,2021-06-26,CA TYR/MVN Fran Crippen M2021 - Time Trial Mission Viejo USA,,False
+2021,34,shevchenko ilya_2001,SHEVCHENKO Ilya,2001,20,22.01,2021-04-09,Russian National Championships (50m) Kazan RUS,,False
+2021,36,spajari pedro_1997,SPAJARI Pedro,1997,24,22.02,2021-04-24,Brazilian Olympic Trials Rio de Janeiro BRA,H,False
+2021,36,namba akira_1996,NAMBA Akira,1996,25,22.02,2021-04-10,Japan National Championships (50m) Tokyo JPN,,False
+2021,38,rylov evgeny_1996,RYLOV Evgeny,1996,25,22.03,2021-04-09,Russian National Championships (50m) Kazan RUS,,False
+2021,38,sakai koshiro_1996,SAKAI Koshiro,1996,25,22.03,2021-02-07,Japan National Championships 2020 (50m) Tokyo JPN,,False
+2021,40,alcara victor_2000,ALCARA Victor,2000,21,22.04,2021-04-24,Brazilian Olympic Trials Rio de Janeiro BRA,H,False
+2021,40,matsui kosuke_1994,MATSUI Kosuke,1994,27,22.04,2021-04-10,Japan National Championships (50m) Tokyo JPN,,False
+2021,42,gigler heiko_1996,GIGLER Heiko,1996,25,22.05,2021-05-22,2021 European Aquatics Championships (50m) Budapest HUN,H,False
+2021,42,simons kenzo_2001,SIMONS Kenzo,2001,20,22.05,2021-04-09,Eindhoven Qualification Meet 2021 Eindhoven NED,,False
+2021,44,wang changhao_2002,WANG Changhao,2002,19,22.06,2021-09-26,The 14th National Games of the People's Republic of CXih'ainna CHN,,False
+2021,44,deplano leonardo_1999,DEPLANO Leonardo,1999,22,22.06,2021-06-25,58th International Trophy Sette Colli Rome ITA,,False
+2021,44,ostrowski karol_1999,OSTROWSKI Karol,1999,22,22.06,2021-04-28,Polish National Championships (50m) Lublin POL,,False
+2021,44,shioura shinri_1991,SHIOURA Shinri,1991,30,22.06,2021-04-10,Japan National Championships (50m) Tokyo JPN,,False
+2021,48,mcevoy cameron_1994,MCEVOY Cameron,1994,27,22.07,2021-06-17,Hancock Prospecting Australian Swimming Trials 2021Adelaide AUS,,False
+2021,48,kuzmenko ivan_1995,KUZMENKO Ivan,1995,26,22.07,2021-04-09,Russian National Championships (50m) Kazan RUS,,False
+2021,50,davis will_2000,DAVIS Will,2000,21,22.08,2021-06-19,US Olympic Team Trials - Wave II Omaha USA,SF,False
+2021,50,,CURRY Brooks,,,22.08,2021-06-19,US Olympic Team Trials - Wave II Omaha USA,SF,False
+2021,50,sorenson payton_1993,SORENSON Payton,1993,28,22.08,2021-06-19,US Olympic Team Trials - Wave II Omaha USA,H,False
+2021,50,bell grayson_1997,BELL Grayson,1997,24,22.08,2021-06-17,Hancock Prospecting Australian Swimming Trials 2021Adelaide AUS,H,False
+2022,1,dressel caeleb_1996,DRESSEL Caeleb,1996,26,21.29,2022-04-30,Phillips 66 International Team Trials 2022 Greensboro USA,,False
+2022,2,proud benjamin_1994,PROUD Benjamin,1994,28,21.32,2022-06-24,19th FINA World Championships Budapest 2022 Budapest HUN,,False
+2022,3,andrew michael_1999,ANDREW Michael,1999,23,21.41,2022-06-24,19th FINA World Championships Budapest 2022 Budapest HUN,,False
+2022,4,fratus bruno_1989,FRATUS Bruno,1989,33,21.49,2022-05-22,Mare Nostrum - 39th Meeting International de NatatiMono ndaec Moonte Carlo 20M22ON,,False
+2022,5,grousset maxime_1999,GROUSSET Maxime,1999,23,21.57,2022-06-24,19th FINA World Championships Budapest 2022 Budapest HUN,,False
+2022,6,de boer thom_1991,DE BOER Thom,1991,31,21.59,2022-08-16,2022 European Aquatics Championships (50m) Rome ITA,H,False
+2022,7,deplano leonardo_1999,DEPLANO Leonardo,1999,23,21.6,2022-08-17,2022 European Aquatics Championships (50m) Rome ITA,,False
+2022,7,szabo szebasztian_1996,SZABO Szebasztian,1996,26,21.6,2022-06-24,19th FINA World Championships Budapest 2022 Budapest HUN,,False
+2022,9,liendo josh_2002,LIENDO Josh,2002,20,21.61,2022-06-24,19th FINA World Championships Budapest 2022 Budapest HUN,,False
+2022,10,burras lewis edward_2000,BURRAS Lewis Edward,2000,22,21.68,2022-08-03,22nd Commonwealth Games 2022 Birmingham GBR,,False
+2022,11,kolesnikov kliment_2000,KOLESNIKOV Kliment,2000,22,21.69,2022-04-27,Russian National Championships (50m) Kazan RUS,,False
+2022,12,zazzeri lorenzo_1994,ZAZZERI Lorenzo,1994,28,21.7,2022-06-23,19th FINA World Championships Budapest 2022 Budapest HUN,SF,False
+2022,13,zirk kregor_1999,ZIRK Kregor,1999,23,21.74,2022-05-25,Mare Nostrum - Trofeu Internacional Ciutat de BarcelBoanrac e2l0o2n2a ESP,,True
+2022,14,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,29,21.75,2022-08-17,2022 European Aquatics Championships (50m) Rome ITA,,False
+2022,15,curtiss david_2002,CURTISS David,2002,20,21.76,2022-06-04,TYR Pro Swim Series Mission Viejo 2022 Mission Viejo USA,H,False
+2022,16,juraszek pawel_1994,JURASZEK Pawel,1994,28,21.78,2022-08-17,2022 European Aquatics Championships (50m) Rome ITA,,False
+2022,17,king matt_2002,KING Matt,2002,20,21.83,2022-07-30,Phillips 66 National Championships (50m) 2022 Irvine USA,,False
+2022,18,,CURRY Brooks,,,21.84,2022-04-30,Phillips 66 International Team Trials 2022 Greensboro USA,,False
+2022,19,held ryan_1995,HELD Ryan,1995,27,21.85,2022-04-30,Phillips 66 International Team Trials 2022 Greensboro USA,,False
+2022,19,markov daniil_2000,MARKOV Daniil,2000,22,21.85,2022-04-27,Russian National Championships (50m) Kazan RUS,,False
+2022,21,nowakowski thomas_2001,NOWAKOWSKI Thomas,2001,21,21.86,2022-05-18,Australian National Championships (50m) Adelaide AUS,,False
+2022,21,dotto luca_1990,DOTTO Luca,1990,32,21.86,2022-04-09,Italian National Championships (50m) Milan ITA,,False
+2022,23,santos guilherme_2003,SANTOS Guilherme,2003,19,21.87,2022-12-10,Campeonato Brasileiro Junior de Verao Rio de Janeiro BRA,,False
+2022,23,bukhov vladyslav_2002,BUKHOV Vladyslav,2002,20,21.87,2022-06-23,19th FINA World Championships Budapest 2022 Budapest HUN,SF,False
+2022,25,carter dylan_1996,CARTER Dylan,1996,26,21.91,2022-06-23,19th FINA World Championships Budapest 2022 Budapest HUN,H,False
+2022,25,shioura shinri_1991,SHIOURA Shinri,1991,31,21.91,2022-03-05,Japan Selection Trial for 19th FINA World ChampionshTiopksy 2o022 JPN,,False
+2022,27,matos ribeiro diogo_2004,MATOS RIBEIRO Diogo,2004,18,21.92,2022-09-02,8th FINA World Junior Swimming Championships 202L2ima PER,,False
+2022,28,teong tzen wei_1997,TEONG Tzen Wei,1997,25,21.93,2022-05-19,31st Southeast Asian Games 2022 Hanoi VIE,,False
+2022,29,manaudou florent_1990,MANAUDOU Florent,1990,32,21.95,2022-06-23,19th FINA World Championships Budapest 2022 Budapest HUN,SF,False
+2022,29,cheruti meiron amir_1997,CHERUTI Meiron Amir,1997,25,21.95,2022-05-11,Israel Swimming Cup 2022 Netanya ISR,,False
+2022,31,tjonajoe renzo_1995,TJON-A-JOE Renzo,1995,27,21.96,2022-12-04,Rotterdam Qualification Meet 2022 Rotterdam NED,,False
+2022,32,lobanovskij maxim_1996,LOBANOVSKIJ Maxim,1996,26,21.99,2022-05-22,Mare Nostrum - 39th Meeting International de NatatiMono ndaec Moonte Carlo 20M22ON,SF,False
+2022,33,armstrong hunter_2001,ARMSTRONG Hunter,2001,21,22.0,2022-04-30,Phillips 66 International Team Trials 2022 Greensboro USA,,False
+2022,33,borges luiz gustavo_1999,BORGES Luiz Gustavo,1999,23,22.0,2022-04-09,Brazil Trophy 2022 Rio de Janeiro BRA,,False
+2022,35,ress justin_1997,RESS Justin,1997,25,22.01,2022-07-30,Phillips 66 National Championships (50m) 2022 Irvine USA,,False
+2022,35,nascimento miguel_1995,NASCIMENTO Miguel,1995,27,22.01,2022-07-04,19th Mediterranean Games 2022 Oran ALG,,False
+2022,37,puts jesse_1994,PUTS Jesse,1994,28,22.02,2022-06-23,19th FINA World Championships Budapest 2022 Budapest HUN,SF,False
+2022,38,mcevoy cameron_1994,MCEVOY Cameron,1994,28,22.03,2022-12-13,McDonald's Queensland Championships 2022 Brisbane AUS,,False
+2022,38,ji yuchan_2002,JI Yuchan,2002,20,22.03,2022-06-23,19th FINA World Championships Budapest 2022 Budapest HUN,H,False
+2022,40,seeliger bjoern_2000,SEELIGER Bjoern,2000,22,22.04,2022-08-16,2022 European Aquatics Championships (50m) Rome ITA,SF,False
+2022,41,bell grayson_1997,BELL Grayson,1997,25,22.08,2022-05-18,Australian National Championships (50m) Adelaide AUS,,False
+2022,42,barna andrej_1998,BARNA Andrej,1998,24,22.09,2022-08-16,2022 European Aquatics Championships (50m) Rome ITA,SF,False
+2022,43,alcara victor_2000,ALCARA Victor,2000,22,22.1,2022-12-01,Toyota US Open 2022 Greensboro USA,H,False
+2022,44,ho ian yentou_1997,HO Ian Yentou,1997,25,22.11,2022-05-25,Mare Nostrum - Trofeu Internacional Ciutat de BarcelBoanrac e2l0o2n2a ESP,H,False
+2022,45,chaney adam_2002,CHANEY Adam,2002,20,22.12,2022-07-30,Phillips 66 National Championships (50m) 2022 Irvine USA,H,False
+2022,45,szabados bence_2001,SZABADOS Bence,2001,21,22.12,2022-07-30,Phillips 66 National Championships (50m) 2022 Irvine USA,H,False
+2022,45,mestre alberto_1999,MESTRE Alberto,1999,23,22.12,2022-06-23,19th FINA World Championships Budapest 2022 Budapest HUN,H,False
+2022,48,khalafalla ali_1996,KHALAFALLA Ali,1996,26,22.13,2022-12-01,Toyota US Open 2022 Greensboro USA,,False
+2022,48,sahnoune oussama_1992,SAHNOUNE Oussama,1992,30,22.13,2022-07-04,19th Mediterranean Games 2022 Oran ALG,H,False
+2022,48,alexy jack_2003,ALEXY Jack,2003,19,22.13,2022-04-30,Phillips 66 International Team Trials 2022 Greensboro USA,,False
+2023,1,mcevoy cameron_1994,MCEVOY Cameron,1994,29,21.06,2023-07-29,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,,False
+2023,2,held ryan_1995,HELD Ryan,1995,28,21.5,2023-07-01,2023 Phillips 66 Indianapolis USA,,False
+2023,3,manaudou florent_1990,MANAUDOU Florent,1990,33,21.56,2023-06-15,French Elite 2023 Rennes FRA,H,False
+2023,4,alexy jack_2003,ALEXY Jack,2003,20,21.57,2023-07-29,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,,False
+2023,5,proud benjamin_1994,PROUD Benjamin,1994,29,21.58,2023-07-29,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,,False
+2023,6,andrew michael_1999,ANDREW Michael,1999,24,21.64,2023-07-01,2023 Phillips 66 Indianapolis USA,,False
+2023,7,cooper isaac_2004,COOPER Isaac,2004,19,21.65,2023-07-28,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,SF,False
+2023,8,szabo szebasztian_1996,SZABO Szebasztian,1996,27,21.67,2023-07-28,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,H,False
+2023,9,carter dylan_1996,CARTER Dylan,1996,27,21.69,2023-12-15,ASATT CHAMPIONSHIP 2023 Couva TTO,,False
+2023,10,bukhov vladyslav_2002,BUKHOV Vladyslav,2002,21,21.7,2023-07-28,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,SF,False
+2023,11,ji yuchan_2002,JI Yuchan,2002,21,21.72,2023-09-25,19th Asian Games 2023 Hangzhou CHN,,False
+2023,12,crooks jordan_2002,CROOKS Jordan,2002,21,21.73,2023-07-28,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,SF,False
+2023,13,deplano leonardo_1999,DEPLANO Leonardo,1999,24,21.74,2023-07-28,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,SF,False
+2023,14,kolesnikov kliment_2000,KOLESNIKOV Kliment,2000,23,21.76,2023-07-28,Russian National Swimming Cup Final Kazan RUS,,False
+2023,15,grousset maxime_1999,GROUSSET Maxime,1999,24,21.78,2023-06-15,French Elite 2023 Rennes FRA,,False
+2023,16,king matt_2002,KING Matt,2002,21,21.8,2023-07-01,2023 Phillips 66 Indianapolis USA,,False
+2023,16,liendo josh_2002,LIENDO Josh,2002,21,21.8,2023-03-30,2023 BELL Canadian Trials Toronto CAN,,False
+2023,18,nowakowski thomas_2001,NOWAKOWSKI Thomas,2001,22,21.81,2023-07-27,TYR Pro Championships 2023 Irvine USA,,False
+2023,18,simons kenzo_2001,SIMONS Kenzo,2001,22,21.81,2023-04-09,Eindhoven 2023 Eindhoven NED,,False
+2023,20,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,30,21.82,2023-07-29,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,,False
+2023,21,bilas stergios marios_2001,BILAS Stergios Marios,2001,22,21.83,2023-08-12,LEN U23 Championships Dublin IRL,,False
+2023,22,cheruti meiron amir_1997,CHERUTI Meiron Amir,1997,26,21.84,2023-04-22,Israel Swimming Cup 2023 Netanya ISR,,False
+2023,23,curtiss david_2002,CURTISS David,2002,21,21.85,2023-10-24,Pan American Games 2023 Santiago CHI,,False
+2023,24,ho ian yentou_1997,HO Ian Yentou,1997,26,21.86,2023-04-16,Festival of Sports 2023 Hong Kong HKG,H,False
+2023,25,kulow jonny_2004,KULOW Jonny,2004,19,21.87,2023-07-01,2023 Phillips 66 Indianapolis USA,,False
+2023,25,matos ribeiro diogo_2004,MATOS RIBEIRO Diogo,2004,19,21.87,2023-03-30,Campeonatos Nacionais POR Funchal POR,H,False
+2023,27,tjonajoe renzo_1995,TJON-A-JOE Renzo,1995,28,21.88,2023-04-09,Eindhoven 2023 Eindhoven NED,,False
+2023,28,tan jonathan eu jin_2002,TAN Jonathan Eu Jin,2002,21,21.91,2023-05-07,32nd SEA Games Phnom Penh CAM,H,False
+2023,28,nascimento miguel_1995,NASCIMENTO Miguel,1995,28,21.91,2023-04-02,Campeonatos Nacionais POR Funchal POR,,True
+2023,30,pan zhanle_2004,PAN Zhanle,2004,19,21.92,2023-09-25,19th Asian Games 2023 Hangzhou CHN,,False
+2023,30,burras lewis edward_2000,BURRAS Lewis Edward,2000,23,21.92,2023-04-08,GBR Championships 2023 Sheffield GBR,,False
+2023,32,schreuders mikel_1998,SCHREUDERS Mikel,1998,25,21.93,2023-11-30,Toyota USA Open 2023 Greensboro USA,,False
+2023,33,mccarty quintin_2003,MCCARTY Quintin,2003,20,21.94,2023-11-30,Toyota USA Open 2023 Greensboro USA,H,False
+2023,33,lia nicholas_2001,LIA Nicholas,2001,22,21.94,2023-07-28,World Aquatics Championships - Fukuoka 2023 Fukuoka JPN,H,False
+2023,35,zazzeri lorenzo_1994,ZAZZERI Lorenzo,1994,29,21.95,2023-11-29,ITA Championships 2023 Riccione ITA,H,False
+2023,35,fannon thomas_1998,FANNON Thomas,1998,25,21.95,2023-04-02,Irish Open Championships 2023 Dublin IRL,H,True
+2023,37,guiliano chris_2003,GUILIANO Chris,2003,20,21.96,2023-07-01,2023 Phillips 66 Indianapolis USA,,False
+2023,38,richards matthew_2002,RICHARDS Matthew,2002,21,21.98,2023-04-08,GBR Championships 2023 Sheffield GBR,,False
+2023,38,govorov andrii_1992,GOVOROV Andrii,1992,31,21.98,2023-03-30,Campeonatos Nacionais POR Funchal POR,H,False
+2023,40,condorelli santo_1995,CONDORELLI Santo,1995,28,21.99,2023-11-30,Toyota USA Open 2023 Greensboro USA,,False
+2023,40,dressel caeleb_1996,DRESSEL Caeleb,1996,27,21.99,2023-11-30,Toyota USA Open 2023 Greensboro USA,,False
+2023,40,shioura shinri_1991,SHIOURA Shinri,1991,32,21.99,2023-04-08,2023 JPN Championships Tokyo JPN,,False
+2023,43,miljenic nikola_1998,MILJENIC Nikola,1998,25,22.0,2023-12-16,2023 Gyor Open (50m) Gyor HUN,,False
+2023,43,chierighini marcelo_1991,CHIERIGHINI Marcelo,1991,32,22.0,2023-06-03,Brazil Trophy 2023 Recife BRA,H,False
+2023,45,kornev egor_2004,KORNEV Egor,2004,19,22.01,2023-07-28,Russian National Swimming Cup Final Kazan RUS,,False
+2023,45,santos guilherme_2003,SANTOS Guilherme,2003,20,22.01,2023-06-03,Brazil Trophy 2023 Recife BRA,,False
+2023,45,wang changhao_2002,WANG Changhao,2002,21,22.01,2023-05-02,Chinese Spring National Championships (50m) Hangzhou CHN,,False
+2023,48,de boer thom_1991,DE BOER Thom,1991,32,22.02,2023-04-09,Eindhoven 2023 Eindhoven NED,H,False
+2023,49,,CURRY Brooks,,,22.03,2023-11-30,Toyota USA Open 2023 Greensboro USA,H,False
+2023,49,nakamura katsumi_1994,NAKAMURA Katsumi,1994,29,22.03,2023-04-08,2023 JPN Championships Tokyo JPN,,False
+2024,1,mcevoy cameron_1994,MCEVOY Cameron,1994,30,21.13,2024-02-16,World Aquatics Championships - Doha 2024 Doha QAT,H,False
+2024,2,proud benjamin_1994,PROUD Benjamin,1994,30,21.25,2024-04-06,GBR Championships 2024 London GBR,,False
+2024,3,bukhov vladyslav_2002,BUKHOV Vladyslav,2002,22,21.38,2024-02-16,World Aquatics Championships - Doha 2024 Doha QAT,SF,False
+2024,4,dressel caeleb_1996,DRESSEL Caeleb,1996,28,21.41,2024-06-21,2024 U.S. Olympic Trials Indianapolis USA,,False
+2024,5,liendo josh_2002,LIENDO Josh,2002,22,21.48,2024-05-18,2024 Bell Canadian Trials Toronto CAN,,False
+2024,6,deplano leonardo_1999,DEPLANO Leonardo,1999,25,21.5,2024-08-01,Olympic Games Paris 2024 Paris FRA,SF,False
+2024,7,crooks jordan_2002,CROOKS Jordan,2002,22,21.51,2024-08-01,Olympic Games Paris 2024 Paris FRA,H,False
+2024,8,manaudou florent_1990,MANAUDOU Florent,1990,34,21.52,2024-06-20,French Elite 2024 Chartres FRA,H,False
+2024,9,gkolomeev kristian_1993,GKOLOMEEV Kristian,1993,31,21.59,2024-08-02,Olympic Games Paris 2024 Paris FRA,,False
+2024,9,guiliano chris_2003,GUILIANO Chris,2003,21,21.59,2024-06-20,2024 U.S. Olympic Trials Indianapolis USA,SF,False
+2024,11,grousset maxime_1999,GROUSSET Maxime,1999,25,21.6,2024-08-01,Olympic Games Paris 2024 Paris FRA,SF,False
+2024,12,zazzeri lorenzo_1994,ZAZZERI Lorenzo,1994,30,21.64,2024-08-01,Olympic Games Paris 2024 Paris FRA,H,False
+2024,13,jack jamie_2002,JACK Jamie,2002,22,21.66,2024-12-17,2024 Hancock Prospecting QLD Championships Brisbane AUS,,False
+2024,13,alexy jack_2003,ALEXY Jack,2003,21,21.66,2024-06-20,2024 U.S. Olympic Trials Indianapolis USA,SF,False
+2024,15,castano garcia gabriel_1997,CASTANO GARCIA Gabriel,1997,27,21.67,2024-04-13,2024 TYR Pro Series TX San Antonio USA,H,False
+2024,15,seeliger bjoern_2000,SEELIGER Bjoern,2000,24,21.67,2024-02-16,World Aquatics Championships - Doha 2024 Doha QAT,SF,False
+2024,17,held ryan_1995,HELD Ryan,1995,29,21.68,2024-04-13,2024 TYR Pro Series TX San Antonio USA,H,False
+2024,18,kornev egor_2004,KORNEV Egor,2004,20,21.7,2024-07-26,Russian National Swimming Cup Ekaterinburg RUS,,False
+2024,18,king matt_2002,KING Matt,2002,22,21.7,2024-06-21,2024 U.S. Olympic Trials Indianapolis USA,,False
+2024,18,andrew michael_1999,ANDREW Michael,1999,25,21.7,2024-06-20,2024 U.S. Olympic Trials Indianapolis USA,H,False
+2024,21,bilas stergios marios_2001,BILAS Stergios Marios,2001,23,21.73,2024-06-23,LEN Championships 2024 Belgrade SRB,,False
+2024,21,simons kenzo_2001,SIMONS Kenzo,2001,23,21.73,2024-02-16,World Aquatics Championships - Doha 2024 Doha QAT,SF,False
+2024,23,fannon thomas_1998,FANNON Thomas,1998,26,21.74,2024-08-01,Olympic Games Paris 2024 Paris FRA,SF,False
+2024,23,cooper isaac_2004,COOPER Isaac,2004,20,21.74,2024-02-16,World Aquatics Championships - Doha 2024 Doha QAT,SF,False
+2024,25,mestre alberto_1999,MESTRE Alberto,1999,25,21.8,2024-04-06,9th DOM Open 2024 Santo Domingo DOM,,False
+2024,26,chaney adam_2002,CHANEY Adam,2002,22,21.81,2024-06-20,2024 U.S. Olympic Trials Indianapolis USA,SF,False
+2024,27,ryan shane_1994,RYAN Shane,1994,30,21.82,2024-06-22,LEN Championships 2024 Belgrade SRB,H,False
+2024,28,richards matthew_2002,RICHARDS Matthew,2002,22,21.83,2024-04-06,GBR Championships 2024 London GBR,,False
+2024,28,ho ian yentou_1997,HO Ian Yentou,1997,27,21.83,2024-02-16,World Aquatics Championships - Doha 2024 Doha QAT,H,False
+2024,30,armbruster ben_2002,ARMBRUSTER Ben,2002,22,21.84,2024-06-12,2024 AUS Olympic Trials Brisbane AUS,,False
+2024,31,mccarty quintin_2003,MCCARTY Quintin,2003,21,21.85,2024-06-20,2024 U.S. Olympic Trials Indianapolis USA,SF,False
+2024,32,torepeormsby taiko_2003,TOREPE-ORMSBY Taiko,2003,21,21.86,2024-04-13,2024 Apollo Championships Hastings NZL,H,False
+2024,33,lamb august_2000,LAMB August,2000,24,21.87,2024-06-20,2024 U.S. Olympic Trials Indianapolis USA,H,False
+2024,33,ji yuchan_2002,JI Yuchan,2002,22,21.87,2024-02-16,World Aquatics Championships - Doha 2024 Doha QAT,SF,False
+2024,35,cheruti meiron amir_1997,CHERUTI Meiron Amir,1997,27,21.88,2024-08-01,Olympic Games Paris 2024 Paris FRA,H,False
+2024,35,santos guilherme_2003,SANTOS Guilherme,2003,21,21.88,2024-05-11,2024 Brazil Olympic Trial Rio de Janeiro BRA,,False
+2024,37,kolesnikov kliment_2000,KOLESNIKOV Kliment,2000,24,21.89,2024-04-17,RUS Championships 2024 Kazan RUS,,False
+2024,37,kulow jonny_2004,KULOW Jonny,2004,20,21.89,2024-04-13,2024 TYR Pro Series TX San Antonio USA,,False
+2024,37,milak kristof_2000,MILAK Kristof,2000,24,21.89,2024-04-10,HUN Championships 2024 Budapest HUN,,False
+2024,37,condorelli santo_1995,CONDORELLI Santo,1995,29,21.89,2024-03-08,2024 TYR Pro Swim Series Westmont Westmont USA,,False
+2024,37,barna andrej_1998,BARNA Andrej,1998,26,21.89,2024-02-16,World Aquatics Championships - Doha 2024 Doha QAT,SF,False
+2024,42,ludwiczak piotr_1996,LUDWICZAK Piotr,1996,28,21.9,2024-06-23,LEN Championships 2024 Belgrade SRB,,False
+2024,42,selin artem_2002,SELIN Artem,2002,22,21.9,2024-04-28,GER Championships 2024 Berlin GER,,False
+2024,42,cohoon alexander_2002,COHOON Alexander,2002,22,21.9,2024-04-06,GBR Championships 2024 London GBR,,False
+2024,42,kartavi martin_2004,KARTAVI Martin,2004,20,21.9,2024-01-20,57th Challenge Geneve Geneva SUI,H,False
+2024,46,matos ribeiro diogo_2004,MATOS RIBEIRO Diogo,2004,20,21.91,2024-08-01,Olympic Games Paris 2024 Paris FRA,H,False
+2024,47,hribar jere_2004,HRIBAR Jere,2004,20,21.94,2024-04-13,Speedo Canadian 2024 Toronto CAN,,False
+2024,48,tjonajoe renzo_1995,TJON-A-JOE Renzo,1995,29,21.95,2024-06-02,Mare Nostrum MON 2024 Monaco MON,,False
+2024,48,carter dylan_1996,CARTER Dylan,1996,28,21.95,2024-02-16,World Aquatics Championships - Doha 2024 Doha QAT,H,False
+2024,50,chalmers kyle_1998,CHALMERS Kyle,1998,26,21.98,2024-04-19,2024 AUS Championships Gold Coast AUS,,False
+2024,50,cumberlidge david_1996,CUMBERLIDGE David,1996,28,21.98,2024-04-06,GBR Championships 2024 London GBR,,False
+2025,1,mcevoy cameron_1994,MCEVOY Cameron,1994,31,21.14,2025-08-02,World Aquatics Championships - Singapore 2025 Singapore SGP,,False
+2025,2,proud benjamin_1994,PROUD Benjamin,1994,31,21.26,2025-08-02,World Aquatics Championships - Singapore 2025 Singapore SGP,,False
+2025,3,alexy jack_2003,ALEXY Jack,2003,22,21.32,2025-08-01,World Aquatics Championships - Singapore 2025 Singapore SGP,SF,False
+2025,4,kornev egor_2004,KORNEV Egor,2004,21,21.43,2025-04-16,Russian National Swimming Championships Kazan RUS,,False
+2025,5,barna andrej_1998,BARNA Andrej,1998,27,21.44,2025-08-01,World Aquatics Championships - Singapore 2025 Singapore SGP,H,False
+2025,6,santos guilherme_2003,SANTOS Guilherme,2003,22,21.46,2025-04-25,2025 Maria Lenk Trophy - Brazilian Swimming ChampRioions dheip Jsaneiro BRA,,False
+2025,7,deplano leonardo_1999,DEPLANO Leonardo,1999,26,21.52,2025-08-02,World Aquatics Championships - Singapore 2025 Singapore SGP,,False
+2025,7,bukhov vladyslav_2002,BUKHOV Vladyslav,2002,23,21.52,2025-06-27,2025 European U23 Aquatics Championships (50m) Samorin SVK,H,False
+2025,9,guiliano chris_2003,GUILIANO Chris,2003,22,21.57,2025-12-04,2025 Toyota American Championships (50m) Austin USA,,False
+2025,10,cheruti meiron amir_1997,CHERUTI Meiron Amir,1997,28,21.6,2025-05-17,Israel World Championship Trials 2025 Netanya ISR,,False
+2025,11,jack jamie_2002,JACK Jamie,2002,23,21.63,2025-08-05,2025 TYR Summer Championships (50m) Irvine USA,,False
+2025,12,matsumoto shuya_2000,MATSUMOTO Shuya,2000,25,21.64,2025-07-27,40th Shizuoka Junior Swimming Championship 2025 (F5u0jmi ) JPN,,False
+2025,13,ji yuchan_2002,JI Yuchan,2002,23,21.66,2025-08-01,World Aquatics Championships - Singapore 2025 Singapore SGP,SF,False
+2025,14,matos ribeiro diogo_2004,MATOS RIBEIRO Diogo,2004,21,21.67,2025-06-27,2025 European U23 Aquatics Championships (50m) Samorin SVK,,False
+2025,15,grousset maxime_1999,GROUSSET Maxime,1999,26,21.68,2025-06-18,French Elite Championships Montpellier FRA,,False
+2025,15,chalmers kyle_1998,CHALMERS Kyle,1998,27,21.68,2025-06-11,2025 Australian Swimming Trials Adelaide AUS,,False
+2025,15,condorelli santo_1995,CONDORELLI Santo,1995,30,21.68,2025-06-07,2025 National Championships Indianapolis USA,,False
+2025,18,baez nikita_2000,BAEZ Nikita,2000,25,21.69,2025-06-18,French Elite Championships Montpellier FRA,,False
+2025,19,ho ian yentou_1997,HO Ian Yentou,1997,28,21.71,2025-11-16,15th National Games of the People’s Republic of ChinSah Sewnizmhemning 2025 (50mCH)N,,False
+2025,20,kulow jonny_2004,KULOW Jonny,2004,21,21.73,2025-06-07,2025 National Championships Indianapolis USA,,False
+2025,21,king matt_2002,KING Matt,2002,23,21.74,2025-12-04,2025 Toyota American Championships (50m) Austin USA,,False
+2025,22,sheremet nikita_2007,SHEREMET Nikita,2007,18,21.75,2025-08-21,World Aquatics Junior Swimming Championships 2025Otopeni ROU,SF,False
+2025,23,armstrong hunter_2001,ARMSTRONG Hunter,2001,24,21.76,2025-08-05,2025 TYR Summer Championships (50m) Irvine USA,,False
+2025,24,fannon thomas_1998,FANNON Thomas,1998,27,21.77,2025-04-13,Irish Open Championships 2025 (Semifinal) Dublin IRL,SF,False
+2025,25,nowakowski thomas_2001,NOWAKOWSKI Thomas,2001,24,21.78,2025-06-11,2025 Australian Swimming Trials Adelaide AUS,,False
+2025,26,hribar jere_2004,HRIBAR Jere,2004,21,21.79,2025-08-01,World Aquatics Championships - Singapore 2025 Singapore SGP,SF,False
+2025,26,mccarty quintin_2003,MCCARTY Quintin,2003,22,21.79,2025-06-07,2025 National Championships Indianapolis USA,,False
+2025,28,alcara victor_2000,ALCARA Victor,2000,25,21.82,2025-04-25,2025 Maria Lenk Trophy - Brazilian Swimming ChampRioions dheip Jsaneiro BRA,,False
+2025,29,szabo szebasztian_1996,SZABO Szebasztian,1996,29,21.83,2025-08-01,World Aquatics Championships - Singapore 2025 Singapore SGP,H,False
+2025,29,cooper isaac_2004,COOPER Isaac,2004,21,21.83,2025-06-11,2025 Australian Swimming Trials Adelaide AUS,,False
+2025,29,popovici david_2004,POPOVICI David,2004,21,21.83,2025-04-09,Romanian National Swimming Championships Otopeni ROU,,False
+2025,32,southam flynn_2005,SOUTHAM Flynn,2005,20,21.85,2025-11-30,2025 Japan Open (50m) Tokyo JPN,,False
+2025,33,zazzeri lorenzo_1994,ZAZZERI Lorenzo,1994,31,21.87,2025-08-01,World Aquatics Championships - Singapore 2025 Singapore SGP,SF,False
+2025,34,liendo josh_2002,LIENDO Josh,2002,23,21.88,2025-06-09,2025 Canadian Trials (50m) Victoria CAN,,False
+2025,34,kolesnikov kliment_2000,KOLESNIKOV Kliment,2000,25,21.88,2025-04-16,Russian National Swimming Championships Kazan RUS,,False
+2025,36,fabiani remi_2001,FABIANI Remi,2001,24,21.91,2025-12-04,2025 Toyota American Championships (50m) Austin USA,H,False
+2025,36,kartavi martin_2004,KARTAVI Martin,2004,21,21.91,2025-08-01,World Aquatics Championships - Singapore 2025 Singapore SGP,H,False
+2025,38,lee mikkel_2002,LEE Mikkel,2002,23,21.92,2025-12-11,33rd South East Asian Games 2025 (50m) Bangkok THA,,False
+2025,38,young david_2005,YOUNG David,2005,20,21.92,2025-12-04,2025 Toyota American Championships (50m) Austin USA,H,False
+2025,40,winkler kaii_2006,WINKLER Kaii,2006,19,21.93,2025-12-04,2025 Toyota American Championships (50m) Austin USA,H,False
+2025,40,gaziev ruslan_1999,GAZIEV Ruslan,1999,26,21.93,2025-11-30,2025 Japan Open (50m) Tokyo JPN,,False
+2025,42,dressel caeleb_1996,DRESSEL Caeleb,1996,29,21.94,2025-08-05,2025 TYR Summer Championships (50m) Irvine USA,,False
+2025,42,sameh abdelrahman_2000,SAMEH Abdelrahman,2000,25,21.94,2025-05-21,46th Int. Swim Meeting - Mare Nostrum Barcelona 20B2a5r c(5e0lomn)a ESP,,False
+2025,44,mills jacob_2007,MILLS Jacob,2007,18,21.96,2025-04-19,Aquatics GB Swimming Championships 2025 London GBR,H,False
+2025,44,samusenko pavel_2001,SAMUSENKO Pavel,2001,24,21.96,2025-04-16,Russian National Swimming Championships Kazan RUS,,False
+2025,46,andrew michael_1999,ANDREW Michael,1999,26,21.97,2025-05-03,2025 TYR Pro Swim Series - Fort Lauderdale Fort Lauderdale USA,,False
+2025,47,mazellier nans_2004,MAZELLIER Nans,2004,21,21.98,2025-06-18,French Elite Championships Montpellier FRA,,False
+2025,47,fentedamers rafael_2006,FENTE--DAMERS Rafael,2006,19,21.98,2025-06-18,French Elite Championships Montpellier FRA,,False
+2025,49,hoek le guenedal luca_2008,HOEK LE GUENEDAL Luca,2008,17,21.99,2025-07-03,2025 European Aquatics Junior Swimming ChampionsShaimpso (r5in0m) SVK,SF,False
+2025,49,salchow josha_1999,SALCHOW Josha,1999,26,21.99,2025-05-04,German Championships 2025 Berlin GER,H,False
